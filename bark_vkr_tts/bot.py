@@ -7,7 +7,7 @@ from scipy.io.wavfile import write as write_wav
 from bark.generation import SAMPLE_RATE, preload_models, codec_decode, generate_text_semantic, generate_coarse, generate_fine
 
 
-TOKEN = '8061300859:AAFGj2zUQ-xReMvQsLworNBX27AU7ReMsQ0'
+TOKEN = 'BOT_TOKEN' #для безопасности удалил токен из общего доступа github
 
 # Параметры для голоса Jaina
 JAINA_SEMANTIC_PATH = 'semantic_output/pytorch_model.bin'
