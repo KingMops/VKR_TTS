@@ -1,0 +1,19 @@
+{"time":"2025-05-06T14:51:40.9103055+05:00","level":"INFO","msg":"stream: starting","core version":"0.19.10","symlink path":"c:\\Users\\nevzo\\VS Code Projects\\VKR_TTS\\bark-with-voice-clone\\wandb\\run-20250506_145140-escc163l\\logs\\debug-core.log"}
+{"time":"2025-05-06T14:51:41.343957+05:00","level":"INFO","msg":"created new stream","id":"escc163l"}
+{"time":"2025-05-06T14:51:41.343957+05:00","level":"INFO","msg":"handler: started","stream_id":"escc163l"}
+{"time":"2025-05-06T14:51:41.343957+05:00","level":"INFO","msg":"writer: Do: started","stream_id":"escc163l"}
+{"time":"2025-05-06T14:51:41.3444947+05:00","level":"INFO","msg":"stream: started","id":"escc163l"}
+{"time":"2025-05-06T14:51:41.3444947+05:00","level":"INFO","msg":"sender: started","stream_id":"escc163l"}
+{"time":"2025-05-06T14:51:41.6741124+05:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-06T14:51:41.7666044+05:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-06T14:51:45.0594303+05:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-06T14:51:45.0774234+05:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-06T15:21:05.7831923+05:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-05-06T15:21:05.7831923+05:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-05-06T15:21:06.7151592+05:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-05-06T15:21:06.7979497+05:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history steps 158-160, summary, console lines 1-1","runtime_seconds":0.0827905}],"total_operations":1}}
+{"time":"2025-05-06T15:21:07.0835809+05:00","level":"INFO","msg":"stream: closing","id":"escc163l"}
+{"time":"2025-05-06T15:21:07.0835809+05:00","level":"INFO","msg":"handler: closed","stream_id":"escc163l"}
+{"time":"2025-05-06T15:21:07.0835809+05:00","level":"INFO","msg":"sender: closed","stream_id":"escc163l"}
+{"time":"2025-05-06T15:21:07.0835809+05:00","level":"INFO","msg":"writer: Close: closed","stream_id":"escc163l"}
+{"time":"2025-05-06T15:21:07.0835809+05:00","level":"INFO","msg":"stream: closed","id":"escc163l"}

@@ -1,0 +1,6 @@
+{"time":"2025-05-05T16:21:42.8908459+05:00","level":"INFO","msg":"main: starting server","port-filename":"C:\\Users\\nevzo\\AppData\\Local\\Temp\\tmpq6ueqsyt\\port-26276.txt","pid":26276,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false}
+{"time":"2025-05-05T16:21:42.8955054+05:00","level":"INFO","msg":"Will exit if parent process dies.","ppid":26276}
+{"time":"2025-05-05T16:21:42.8955054+05:00","level":"INFO","msg":"server is running","addr":{"IP":"127.0.0.1","Port":53896,"Zone":""}}
+{"time":"2025-05-05T16:21:43.0811625+05:00","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"127.0.0.1:53898"}
+{"time":"2025-05-05T16:21:43.6388057+05:00","level":"INFO","msg":"handleInformInit: received","streamId":"p7bciffe","id":"127.0.0.1:53898"}
+{"time":"2025-05-05T16:21:44.1297005+05:00","level":"INFO","msg":"handleInformInit: stream started","streamId":"p7bciffe","id":"127.0.0.1:53898"}

@@ -1,0 +1,19 @@
+{"time":"2025-05-06T10:59:03.5323624+05:00","level":"INFO","msg":"stream: starting","core version":"0.19.10","symlink path":"c:\\Users\\nevzo\\VS Code Projects\\VKR_TTS\\bark-with-voice-clone\\wandb\\run-20250506_105903-4506bjna\\logs\\debug-core.log"}
+{"time":"2025-05-06T10:59:04.1644784+05:00","level":"INFO","msg":"created new stream","id":"4506bjna"}
+{"time":"2025-05-06T10:59:04.1649983+05:00","level":"INFO","msg":"stream: started","id":"4506bjna"}
+{"time":"2025-05-06T10:59:04.1649983+05:00","level":"INFO","msg":"handler: started","stream_id":"4506bjna"}
+{"time":"2025-05-06T10:59:04.1720375+05:00","level":"INFO","msg":"writer: Do: started","stream_id":"4506bjna"}
+{"time":"2025-05-06T10:59:04.1720375+05:00","level":"INFO","msg":"sender: started","stream_id":"4506bjna"}
+{"time":"2025-05-06T10:59:04.4595253+05:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-06T10:59:04.5662592+05:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-06T10:59:08.1762491+05:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-06T10:59:08.1946408+05:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-06T11:23:06.1424641+05:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-05-06T11:23:06.1424641+05:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-05-06T11:23:07.1389639+05:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-05-06T11:23:07.1570468+05:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history steps 160-160, summary, console lines 1-1","runtime_seconds":0.0180829}],"total_operations":1}}
+{"time":"2025-05-06T11:23:07.4792978+05:00","level":"INFO","msg":"stream: closing","id":"4506bjna"}
+{"time":"2025-05-06T11:23:07.4792978+05:00","level":"INFO","msg":"handler: closed","stream_id":"4506bjna"}
+{"time":"2025-05-06T11:23:07.4792978+05:00","level":"INFO","msg":"writer: Close: closed","stream_id":"4506bjna"}
+{"time":"2025-05-06T11:23:07.4792978+05:00","level":"INFO","msg":"sender: closed","stream_id":"4506bjna"}
+{"time":"2025-05-06T11:23:07.4792978+05:00","level":"INFO","msg":"stream: closed","id":"4506bjna"}

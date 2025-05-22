@@ -1,0 +1,8 @@
+{"time":"2025-05-06T19:42:02.8617652+05:00","level":"INFO","msg":"main: starting server","port-filename":"C:\\Users\\nevzo\\AppData\\Local\\Temp\\tmpy2z4queo\\port-10512.txt","pid":10512,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false}
+{"time":"2025-05-06T19:42:02.8687657+05:00","level":"INFO","msg":"Will exit if parent process dies.","ppid":10512}
+{"time":"2025-05-06T19:42:02.8687657+05:00","level":"INFO","msg":"server is running","addr":{"IP":"127.0.0.1","Port":54698,"Zone":""}}
+{"time":"2025-05-06T19:42:02.9013504+05:00","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"127.0.0.1:54699"}
+{"time":"2025-05-06T19:42:03.494049+05:00","level":"INFO","msg":"handleInformInit: received","streamId":"gh3z6tdi","id":"127.0.0.1:54699"}
+{"time":"2025-05-06T19:42:04.0413096+05:00","level":"INFO","msg":"handleInformInit: stream started","streamId":"gh3z6tdi","id":"127.0.0.1:54699"}
+{"time":"2025-05-06T20:07:23.667695+05:00","level":"INFO","msg":"handleInformFinish: finish message received","streamId":"gh3z6tdi","id":"127.0.0.1:54699"}
+{"time":"2025-05-06T20:07:23.667695+05:00","level":"INFO","msg":"handleInformFinish: stream closed","streamId":"gh3z6tdi","id":"127.0.0.1:54699"}

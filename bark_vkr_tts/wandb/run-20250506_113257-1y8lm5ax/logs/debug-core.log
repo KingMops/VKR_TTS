@@ -1,0 +1,8 @@
+{"time":"2025-05-06T11:32:56.5830306+05:00","level":"INFO","msg":"main: starting server","port-filename":"C:\\Users\\nevzo\\AppData\\Local\\Temp\\tmpimymav0v\\port-17848.txt","pid":17848,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false}
+{"time":"2025-05-06T11:32:56.5917658+05:00","level":"INFO","msg":"Will exit if parent process dies.","ppid":17848}
+{"time":"2025-05-06T11:32:56.5917658+05:00","level":"INFO","msg":"server is running","addr":{"IP":"127.0.0.1","Port":57132,"Zone":""}}
+{"time":"2025-05-06T11:32:56.7764029+05:00","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"127.0.0.1:57133"}
+{"time":"2025-05-06T11:32:57.3041556+05:00","level":"INFO","msg":"handleInformInit: received","streamId":"1y8lm5ax","id":"127.0.0.1:57133"}
+{"time":"2025-05-06T11:32:57.7391974+05:00","level":"INFO","msg":"handleInformInit: stream started","streamId":"1y8lm5ax","id":"127.0.0.1:57133"}
+{"time":"2025-05-06T11:59:07.5397559+05:00","level":"INFO","msg":"handleInformFinish: finish message received","streamId":"1y8lm5ax","id":"127.0.0.1:57133"}
+{"time":"2025-05-06T11:59:07.5397559+05:00","level":"INFO","msg":"handleInformFinish: stream closed","streamId":"1y8lm5ax","id":"127.0.0.1:57133"}

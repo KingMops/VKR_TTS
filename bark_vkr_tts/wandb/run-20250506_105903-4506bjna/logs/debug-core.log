@@ -1,0 +1,8 @@
+{"time":"2025-05-06T10:59:02.7078316+05:00","level":"INFO","msg":"main: starting server","port-filename":"C:\\Users\\nevzo\\AppData\\Local\\Temp\\tmpoloqitgy\\port-19912.txt","pid":19912,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false}
+{"time":"2025-05-06T10:59:02.7158308+05:00","level":"INFO","msg":"Will exit if parent process dies.","ppid":19912}
+{"time":"2025-05-06T10:59:02.7158308+05:00","level":"INFO","msg":"server is running","addr":{"IP":"127.0.0.1","Port":56333,"Zone":""}}
+{"time":"2025-05-06T10:59:02.8759402+05:00","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"127.0.0.1:56334"}
+{"time":"2025-05-06T10:59:03.5259747+05:00","level":"INFO","msg":"handleInformInit: received","streamId":"4506bjna","id":"127.0.0.1:56334"}
+{"time":"2025-05-06T10:59:04.1649983+05:00","level":"INFO","msg":"handleInformInit: stream started","streamId":"4506bjna","id":"127.0.0.1:56334"}
+{"time":"2025-05-06T11:23:07.4792978+05:00","level":"INFO","msg":"handleInformFinish: finish message received","streamId":"4506bjna","id":"127.0.0.1:56334"}
+{"time":"2025-05-06T11:23:07.4792978+05:00","level":"INFO","msg":"handleInformFinish: stream closed","streamId":"4506bjna","id":"127.0.0.1:56334"}

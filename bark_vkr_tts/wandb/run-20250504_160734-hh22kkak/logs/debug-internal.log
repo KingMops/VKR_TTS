@@ -1,0 +1,19 @@
+{"time":"2025-05-04T16:07:34.4012788+05:00","level":"INFO","msg":"stream: starting","core version":"0.19.10","symlink path":"c:\\Users\\nevzo\\VS Code Projects\\VKR_TTS\\bark-with-voice-clone\\wandb\\run-20250504_160734-hh22kkak\\logs\\debug-core.log"}
+{"time":"2025-05-04T16:07:34.8412345+05:00","level":"INFO","msg":"created new stream","id":"hh22kkak"}
+{"time":"2025-05-04T16:07:34.8412345+05:00","level":"INFO","msg":"stream: started","id":"hh22kkak"}
+{"time":"2025-05-04T16:07:34.8412345+05:00","level":"INFO","msg":"handler: started","stream_id":"hh22kkak"}
+{"time":"2025-05-04T16:07:34.8417615+05:00","level":"INFO","msg":"writer: Do: started","stream_id":"hh22kkak"}
+{"time":"2025-05-04T16:07:34.8417615+05:00","level":"INFO","msg":"sender: started","stream_id":"hh22kkak"}
+{"time":"2025-05-04T16:07:35.1511825+05:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-04T16:07:37.8825979+05:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-04T16:07:39.4255572+05:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-04T16:07:41.9749857+05:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-04T17:12:41.8380733+05:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-05-04T17:12:41.8380733+05:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-05-04T17:12:42.8443517+05:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-05-04T17:12:42.8489991+05:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history steps 24-25, summary, console lines 1-1","runtime_seconds":0.0046474}],"total_operations":1}}
+{"time":"2025-05-04T17:12:43.1844877+05:00","level":"INFO","msg":"stream: closing","id":"hh22kkak"}
+{"time":"2025-05-04T17:12:43.1844877+05:00","level":"INFO","msg":"sender: closed","stream_id":"hh22kkak"}
+{"time":"2025-05-04T17:12:43.1865554+05:00","level":"INFO","msg":"handler: closed","stream_id":"hh22kkak"}
+{"time":"2025-05-04T17:12:43.1865554+05:00","level":"INFO","msg":"writer: Close: closed","stream_id":"hh22kkak"}
+{"time":"2025-05-04T17:12:43.1865554+05:00","level":"INFO","msg":"stream: closed","id":"hh22kkak"}

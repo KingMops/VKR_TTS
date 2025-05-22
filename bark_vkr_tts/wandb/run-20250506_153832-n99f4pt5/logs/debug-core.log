@@ -1,0 +1,8 @@
+{"time":"2025-05-06T15:38:31.4969653+05:00","level":"INFO","msg":"main: starting server","port-filename":"C:\\Users\\nevzo\\AppData\\Local\\Temp\\tmp3zb89z1s\\port-9880.txt","pid":9880,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false}
+{"time":"2025-05-06T15:38:31.5000254+05:00","level":"INFO","msg":"Will exit if parent process dies.","ppid":9880}
+{"time":"2025-05-06T15:38:31.5000254+05:00","level":"INFO","msg":"server is running","addr":{"IP":"127.0.0.1","Port":60891,"Zone":""}}
+{"time":"2025-05-06T15:38:31.5975657+05:00","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"127.0.0.1:60892"}
+{"time":"2025-05-06T15:38:32.2001632+05:00","level":"INFO","msg":"handleInformInit: received","streamId":"n99f4pt5","id":"127.0.0.1:60892"}
+{"time":"2025-05-06T15:38:32.6624478+05:00","level":"INFO","msg":"handleInformInit: stream started","streamId":"n99f4pt5","id":"127.0.0.1:60892"}
+{"time":"2025-05-06T17:52:45.364308+05:00","level":"INFO","msg":"handleInformFinish: finish message received","streamId":"n99f4pt5","id":"127.0.0.1:60892"}
+{"time":"2025-05-06T17:52:45.364308+05:00","level":"INFO","msg":"handleInformFinish: stream closed","streamId":"n99f4pt5","id":"127.0.0.1:60892"}

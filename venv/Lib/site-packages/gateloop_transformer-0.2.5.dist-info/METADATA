@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: gateloop-transformer
+Version: 0.2.5
+Summary: GateLoop Transformer
+Home-page: https://github.com/lucidrains/gateloop-transformer
+Author: Phil Wang
+Author-email: lucidrains@gmail.com
+License: MIT
+Keywords: artificial intelligence,deep learning,gated linear attention
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: einops >=0.7.0
+Requires-Dist: rotary-embedding-torch
+Requires-Dist: torch >=2.1
+

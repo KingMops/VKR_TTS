@@ -1,0 +1,8 @@
+{"time":"2025-05-06T21:24:47.8611267+05:00","level":"INFO","msg":"main: starting server","port-filename":"C:\\Users\\nevzo\\AppData\\Local\\Temp\\tmpizje7lu5\\port-20100.txt","pid":20100,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false}
+{"time":"2025-05-06T21:24:47.864224+05:00","level":"INFO","msg":"Will exit if parent process dies.","ppid":20100}
+{"time":"2025-05-06T21:24:47.864224+05:00","level":"INFO","msg":"server is running","addr":{"IP":"127.0.0.1","Port":54629,"Zone":""}}
+{"time":"2025-05-06T21:24:47.951646+05:00","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"127.0.0.1:54630"}
+{"time":"2025-05-06T21:24:48.5415559+05:00","level":"INFO","msg":"handleInformInit: received","streamId":"q4mggqln","id":"127.0.0.1:54630"}
+{"time":"2025-05-06T21:24:48.9804427+05:00","level":"INFO","msg":"handleInformInit: stream started","streamId":"q4mggqln","id":"127.0.0.1:54630"}
+{"time":"2025-05-07T02:58:38.7580284+05:00","level":"INFO","msg":"handleInformFinish: finish message received","streamId":"q4mggqln","id":"127.0.0.1:54630"}
+{"time":"2025-05-07T02:58:38.7580284+05:00","level":"INFO","msg":"handleInformFinish: stream closed","streamId":"q4mggqln","id":"127.0.0.1:54630"}

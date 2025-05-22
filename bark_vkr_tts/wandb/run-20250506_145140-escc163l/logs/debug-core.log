@@ -1,0 +1,8 @@
+{"time":"2025-05-06T14:51:40.2264082+05:00","level":"INFO","msg":"main: starting server","port-filename":"C:\\Users\\nevzo\\AppData\\Local\\Temp\\tmp7smogy4r\\port-22192.txt","pid":22192,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false}
+{"time":"2025-05-06T14:51:40.2314085+05:00","level":"INFO","msg":"Will exit if parent process dies.","ppid":22192}
+{"time":"2025-05-06T14:51:40.2314085+05:00","level":"INFO","msg":"server is running","addr":{"IP":"127.0.0.1","Port":60724,"Zone":""}}
+{"time":"2025-05-06T14:51:40.3595738+05:00","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"127.0.0.1:60726"}
+{"time":"2025-05-06T14:51:40.9092793+05:00","level":"INFO","msg":"handleInformInit: received","streamId":"escc163l","id":"127.0.0.1:60726"}
+{"time":"2025-05-06T14:51:41.3444947+05:00","level":"INFO","msg":"handleInformInit: stream started","streamId":"escc163l","id":"127.0.0.1:60726"}
+{"time":"2025-05-06T15:21:07.0835809+05:00","level":"INFO","msg":"handleInformFinish: finish message received","streamId":"escc163l","id":"127.0.0.1:60726"}
+{"time":"2025-05-06T15:21:07.0835809+05:00","level":"INFO","msg":"handleInformFinish: stream closed","streamId":"escc163l","id":"127.0.0.1:60726"}

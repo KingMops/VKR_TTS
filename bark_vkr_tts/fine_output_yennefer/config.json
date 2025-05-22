@@ -1,0 +1,12 @@
+{
+  "block_size": 1024,
+  "input_vocab_size": 1056,
+  "output_vocab_size": 1056,
+  "n_layer": 24,
+  "n_head": 16,
+  "n_embd": 1024,
+  "dropout": 0.0,
+  "bias": false,
+  "n_codes_total": 8,
+  "n_codes_given": 1
+}

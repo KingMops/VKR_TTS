@@ -1,0 +1,8 @@
+{"time":"2025-05-05T11:00:49.7482527+05:00","level":"INFO","msg":"main: starting server","port-filename":"C:\\Users\\nevzo\\AppData\\Local\\Temp\\tmppyao9ylk\\port-15164.txt","pid":15164,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false}
+{"time":"2025-05-05T11:00:49.7509649+05:00","level":"INFO","msg":"Will exit if parent process dies.","ppid":15164}
+{"time":"2025-05-05T11:00:49.7509649+05:00","level":"INFO","msg":"server is running","addr":{"IP":"127.0.0.1","Port":59744,"Zone":""}}
+{"time":"2025-05-05T11:00:49.8113264+05:00","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"127.0.0.1:59745"}
+{"time":"2025-05-05T11:00:50.4343557+05:00","level":"INFO","msg":"handleInformInit: received","streamId":"gxlg0zos","id":"127.0.0.1:59745"}
+{"time":"2025-05-05T11:00:50.9589992+05:00","level":"INFO","msg":"handleInformInit: stream started","streamId":"gxlg0zos","id":"127.0.0.1:59745"}
+{"time":"2025-05-05T13:08:53.5760763+05:00","level":"INFO","msg":"handleInformFinish: finish message received","streamId":"gxlg0zos","id":"127.0.0.1:59745"}
+{"time":"2025-05-05T13:08:53.5766037+05:00","level":"INFO","msg":"handleInformFinish: stream closed","streamId":"gxlg0zos","id":"127.0.0.1:59745"}

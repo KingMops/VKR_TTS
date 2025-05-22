@@ -1,0 +1,150 @@
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_1.wav|​О чём ты говоришь? Я не собиралась не убивать Тралла, не нарушать наш договор с ордой
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_10.wav|Эти корабли и солдаты. Я поняла Рексар! Это
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_100.wav|Надеюсь, что нет. На ящиках печать Андорала. Торговой столицы северных земель. Я даже представить боюсь сколько городов и деревень будет охвачено чумой, если зерно действительно заражено.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_101.wav|Мы высоко ценим великодушие эльфов.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_102.wav|Кажется, это создание собрано из кусков разных тел.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_103.wav|Думаю это был некромант. Наверняка эта эпидемия дело рук его прислужников.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_104.wav|Смотрите! Это прислужники некроманта. Что они делают с этим рудником?
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_105.wav|Полностью с тобой согласна.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_106.wav|О чём это он?
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_107.wav|Дольный очаг, наконец-то. Сейчас бы немного отдохнуть
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_108.wav|Но!
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_109.wav|Прости меня за то, что я пряталась, Артас. Я просто хотела
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_11.wav|Поздно. Он уже здесь.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_110.wav|Я ощущаю в нём огромную силу, Артас! Может быть он прав? Может быть он действительно знает, что нас ждёт?
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_111.wav|Артас. Ты не можешь так!
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_112.wav|Прости, Артас. Я не могу на это смотреть.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_113.wav|Сколько мёртвых. Не могу поверить, что это всё дело рук Артаса.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_114.wav|Лорд Утер?
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_115.wav|Он приходил ко мне перед отплытием. Я умоляла его остаться. Говорила, что это ловушка.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_116.wav|В Нордсколл. Он отправился в Нордсколл, чтобы найти Малганиса.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_117.wav|Ты! Артас делает лишь то, что считает правильным.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_118.wav|Я не солдат.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_119.wav|Всё что я хотела, это учиться.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_12.wav|Постой, отец!
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_120.wav|Я чувствую возмущение магических потоков.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_121.wav|Я молюсь об отце.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_122.wav|Похоже тучи сгущаются.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_123.wav|За Далоран!
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_124.wav|Я могу помочь.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_125.wav|Хм. Любопытно!
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_126.wav|Т-с-с. Тише. Дай мне подумать.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_127.wav|Какой у нас план?
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_128.wav|Ладно.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_129.wav|Я разберусь.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_13.wav|Мы заключили мир с ордой. Теперь у орков есть своё королевство.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_130.wav|Интересно.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_131.wav|Я обо всём позабочусь.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_132.wav|Ненавижу прибегать к насилию.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_133.wav|Не стоило напрашиваться!
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_134.wav|За короля Тереноса!
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_135.wav|Я, Джайна Праудмур. Предводительница людей из Лордерона. Тех, кто остался в живых.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_136.wav|Простите, что опаздала. Как мы и боялись, Архимонд со своими стражами ужаса уже идёт к вершине. Они вот-вот будут здесь.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_137.wav|Если, вы, прикроете наши позиции и поможете войсками. Мы с Траллом задержим Архимонда.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_138.wav|Нежить прорвала нашу оборону! Нам нужна помощь и немедленно!
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_139.wav|Нежить наступает! Высылайте подкрепления!
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_14.wav|Прошу остановись, отец! Ты не понимаешь!
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_140.wav|Нас сейчас сметут! Нужны свежие силы!
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_141.wav|Я вижу, вы демоны не умолкаете.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_142.wav|Орки! Я так и знала, что кто-то следует за нами по пятам. К оружию!
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_143.wav|Объединиться с ними? Ты в своём уме?
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_144.wav|Постой, это же безумие! Неужели, ты думаешь, что я
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_145.wav|Запомни, Тралл. Чтобы спасти своего друга Адского Крика. Ты должен заключить его душу в камень. И принести его в мой лагерь. Только так мы сможем освободить Громмаша, от власти демонов.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_146.wav|Не ты один. Я вернусь в лагерь и постараюсь помочь вам. Удачи, господа!
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_147.wav|На нас напали! Помогите, скорее!
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_148.wav|Демоны возвращаются! Отправьте подкрепления! Скорее!
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_149.wav|Нас вот-вот уничтожат! Помогите!
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_15.wav|Тралл, Рексар, я пришла с миром. Поверьте, я не замешана в том, что делает мой отец. Я не хотела всего этого. Я. Я просто не знаю что делать.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_150.wav|Тралл, небо пылает!
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_16.wav|Я понимаю, Тралл. На соседнем острове есть гоблинская верфь, где можно нанять боевые корабли. Их будет достаточно, чтобы прорвать блокаду и добраться до Терамора.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_17.wav|Но прошу тебя. Если сможешь. Постарайся сохранить жизнь моим людям. Отец заставит их сражаться до конца, но они это всё что у меня осталось. Пожалуйста, пожалей их ради меня.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_18.wav|Отец. Почему ты меня не послушал?
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_19.wav|Простите учитель. Я услышала ваш разговор, и
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_2.wav|Клянусь, я не отдавала подобных приказов. Веди меня к этим воинам. Я хочу сама во всём разобраться.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_20.wav|Ходят слухи, что в северных землях свирепствует чума. Вы правда думаете, что эта болезнь порождение магии?
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_21.wav|Хорошо учитель. Я сделаю всё что смогу.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_22.wav|И я рада, Артас. Давненько меня не сопровождал сам принц.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_23.wav|Насколько нам известно, чума пришла с севера. Мы должны осмотреть все поселения вдоль королевского тракта.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_24.wav|Кажется, будто земля вокруг Амбара пропитана смертью.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_25.wav|Надеюсь, что нет. На ящиках печать Андорала. Торговой столицы северных земель. Я даже представить боюсь сколько городов и деревень будет охвачено чумой, если зерно действительно заражено.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_26.wav|Мы высоко ценим великодушие эльфов.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_27.wav|Кажется, это создание собрано из кусков разных тел.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_28.wav|Думаю это был некромант. Наверняка эта эпидемия дело рук его прислужников.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_29.wav|Смотрите! Это прислужники некроманта. Что они делают с этим рудником?
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_3.wav|Рексар, они совсем не похожи на людей.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_30.wav|Полностью с тобой согласна.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_31.wav|О чём это он?
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_32.wav|Дольный очаг, наконец-то. Сейчас бы немного отдохнуть
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_33.wav|Но!
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_34.wav|Прости меня за то, что я пряталась, Артас. Я просто хотела
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_35.wav|Я ощущаю в нём огромную силу, Артас! Может быть он прав? Может быть он действительно знает, что нас ждёт?
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_36.wav|Артас. Ты не можешь так!
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_37.wav|Прости, Артас. Я не могу на это смотреть.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_38.wav|Сколько мёртвых. Не могу поверить, что это всё дело рук Артаса.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_39.wav|Лорд Утер?
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_4.wav|Стоя на месте мы точно ничего не узнаем. Идём!
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_40.wav|Он приходил ко мне перед отплытием. Я умоляла его остаться. Говорила, что это ловушка.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_41.wav|В Нордсколл. Он отправился в Нордсколл, чтобы найти Малганиса.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_42.wav|Ты! Артас делает лишь то, что считает правильным.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_43.wav|Я не солдат.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_44.wav|Всё что я хотела, это учиться.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_45.wav|Я чувствую возмущение магических потоков.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_46.wav|Я молюсь об отце.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_47.wav|Похоже тучи сгущаются.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_48.wav|За Далоран!
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_49.wav|Я могу помочь.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_5.wav|Да, но следы ведут к воде. Смотри! Видишь тот маленький островок?
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_50.wav|Хм. Любопытно!
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_51.wav|Т-с-с. Тише. Дай мне подумать.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_52.wav|Какой у нас план?
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_53.wav|Ладно.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_54.wav|Я разберусь.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_55.wav|Интересно.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_56.wav|Я обо всём позабочусь.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_57.wav|Ненавижу прибегать к насилию.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_58.wav|Не стоило напрашиваться!
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_59.wav|За короля Тереноса!
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_6.wav|Постой! Один ещё жив!
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_60.wav|Я, Джайна Праудмур. Предводительница людей из Лордерона. Тех, кто остался в живых.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_61.wav|Простите, что опаздала. Как мы и боялись, Архимонд со своими стражами ужаса уже идёт к вершине. Они вот-вот будут здесь.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_62.wav|Если, вы, прикроете наши позиции и поможете войсками. Мы с Траллом задержим Архимонда.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_63.wav|Нежить прорвала нашу оборону! Нам нужна помощь и немедленно!
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_64.wav|Нежить наступает! Высылайте подкрепления!
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_65.wav|Нас сейчас сметут! Нужны свежие силы!
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_66.wav|Я вижу, вы демоны не умолкаете.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_67.wav|Орки! Я так и знала, что кто-то следует за нами по пятам. К оружию!
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_68.wav|Объединиться с ними? Ты в своём уме?
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_69.wav|Постой, это же безумие! Неужели, ты думаешь, что я
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_7.wav|Адмирал? Не может быть. Мы должны немедленно вернуться на Терамор.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_70.wav|Запомни, Тралл. Чтобы спасти своего друга Адского Крика. Ты должен заключить его душу в камень. И принести его в мой лагерь. Только так мы сможем освободить Громмаша, от власти демонов.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_71.wav|Не ты один. Я вернусь в лагерь и постараюсь помочь вам. Удачи, господа!
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_72.wav|На нас напали! Помогите, скорее!
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_73.wav|Демоны возвращаются! Отправьте подкрепления! Скорее!
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_74.wav|Нас вот-вот уничтожат! Помогите!
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_75.wav|Тралл, небо пылает!
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_76.wav|​О чём ты говоришь? Я не собиралась не убивать Тралла, не нарушать наш договор с ордой
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_77.wav|Клянусь, я не отдавала подобных приказов. Веди меня к этим воинам. Я хочу сама во всём разобраться.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_78.wav|Рексар, они совсем не похожи на людей.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_79.wav|Стоя на месте мы точно ничего не узнаем. Идём!
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_8.wav|Доверься мне, Рексар. Там, я тебя всё объясню.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_80.wav|Да, но следы ведут к воде. Смотри! Видишь тот маленький островок?
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_81.wav|Постой! Один ещё жив!
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_82.wav|Адмирал? Не может быть. Мы должны немедленно вернуться на Терамор.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_83.wav|Доверься мне, Рексар. Там, я тебя всё объясню.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_84.wav|Надеюсь мы не опоздали. Ты должен как можно скорее сообщить Траллу, что
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_85.wav|Эти корабли и солдаты. Я поняла Рексар! Это
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_86.wav|Поздно. Он уже здесь.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_87.wav|Постой, отец!
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_88.wav|Мы заключили мир с ордой. Теперь у орков есть своё королевство.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_89.wav|Прошу остановись, отец! Ты не понимаешь!
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_9.wav|Надеюсь мы не опоздали. Ты должен как можно скорее сообщить Траллу, что
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_90.wav|Тралл, Рексар, я пришла с миром. Поверьте, я не замешана в том, что делает мой отец. Я не хотела всего этого. Я. Я просто не знаю что делать.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_91.wav|Я понимаю, Тралл. На соседнем острове есть гоблинская верфь, где можно нанять боевые корабли. Их будет достаточно, чтобы прорвать блокаду и добраться до Терамора.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_92.wav|Но прошу тебя. Если сможешь. Постарайся сохранить жизнь моим людям. Отец заставит их сражаться до конца, но они это всё что у меня осталось. Пожалуйста, пожалей их ради меня.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_93.wav|Отец. Почему ты меня не послушал?
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_94.wav|Простите учитель. Я услышала ваш разговор, и
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_95.wav|Ходят слухи, что в северных землях свирепствует чума. Вы правда думаете, что эта болезнь порождение магии?
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_96.wav|Хорошо учитель. Я сделаю всё что смогу.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_97.wav|И я рада, Артас. Давненько меня не сопровождал сам принц.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_98.wav|Насколько нам известно, чума пришла с севера. Мы должны осмотреть все поселения вдоль королевского тракта.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_99.wav|Кажется, будто земля вокруг Амбара пропитана смертью.

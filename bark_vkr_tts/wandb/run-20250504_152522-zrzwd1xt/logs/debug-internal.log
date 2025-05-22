@@ -1,0 +1,19 @@
+{"time":"2025-05-04T15:25:22.2313885+05:00","level":"INFO","msg":"stream: starting","core version":"0.19.10","symlink path":"c:\\Users\\nevzo\\VS Code Projects\\VKR_TTS\\bark-with-voice-clone\\wandb\\run-20250504_152522-zrzwd1xt\\logs\\debug-core.log"}
+{"time":"2025-05-04T15:25:22.8865259+05:00","level":"INFO","msg":"created new stream","id":"zrzwd1xt"}
+{"time":"2025-05-04T15:25:22.8865259+05:00","level":"INFO","msg":"stream: started","id":"zrzwd1xt"}
+{"time":"2025-05-04T15:25:22.8865259+05:00","level":"INFO","msg":"handler: started","stream_id":"zrzwd1xt"}
+{"time":"2025-05-04T15:25:22.8865259+05:00","level":"INFO","msg":"writer: Do: started","stream_id":"zrzwd1xt"}
+{"time":"2025-05-04T15:25:22.8865259+05:00","level":"INFO","msg":"sender: started","stream_id":"zrzwd1xt"}
+{"time":"2025-05-04T15:25:23.2137971+05:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-04T15:25:23.3188275+05:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-04T15:25:23.8482841+05:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-04T15:25:23.8637741+05:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-04T15:46:08.2444981+05:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-05-04T15:46:08.2444981+05:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-05-04T15:46:09.1810074+05:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-05-04T15:46:09.2586032+05:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history steps 24-25, summary, console lines 1-1","runtime_seconds":0.0775958}],"total_operations":1}}
+{"time":"2025-05-04T15:46:09.5290713+05:00","level":"INFO","msg":"stream: closing","id":"zrzwd1xt"}
+{"time":"2025-05-04T15:46:09.5290713+05:00","level":"INFO","msg":"handler: closed","stream_id":"zrzwd1xt"}
+{"time":"2025-05-04T15:46:09.5290713+05:00","level":"INFO","msg":"sender: closed","stream_id":"zrzwd1xt"}
+{"time":"2025-05-04T15:46:09.5290713+05:00","level":"INFO","msg":"writer: Close: closed","stream_id":"zrzwd1xt"}
+{"time":"2025-05-04T15:46:09.5290713+05:00","level":"INFO","msg":"stream: closed","id":"zrzwd1xt"}

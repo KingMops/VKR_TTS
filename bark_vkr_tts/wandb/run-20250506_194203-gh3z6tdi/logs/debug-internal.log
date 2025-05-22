@@ -1,0 +1,19 @@
+{"time":"2025-05-06T19:42:03.4992798+05:00","level":"INFO","msg":"stream: starting","core version":"0.19.10","symlink path":"c:\\Users\\nevzo\\VS Code Projects\\VKR_TTS\\bark-with-voice-clone\\wandb\\run-20250506_194203-gh3z6tdi\\logs\\debug-core.log"}
+{"time":"2025-05-06T19:42:04.0408055+05:00","level":"INFO","msg":"created new stream","id":"gh3z6tdi"}
+{"time":"2025-05-06T19:42:04.0408055+05:00","level":"INFO","msg":"stream: started","id":"gh3z6tdi"}
+{"time":"2025-05-06T19:42:04.0413472+05:00","level":"INFO","msg":"handler: started","stream_id":"gh3z6tdi"}
+{"time":"2025-05-06T19:42:04.0423976+05:00","level":"INFO","msg":"writer: Do: started","stream_id":"gh3z6tdi"}
+{"time":"2025-05-06T19:42:04.0423976+05:00","level":"INFO","msg":"sender: started","stream_id":"gh3z6tdi"}
+{"time":"2025-05-06T19:42:04.3668601+05:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-06T19:42:04.4809176+05:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-06T19:42:07.297793+05:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-06T19:42:07.3150979+05:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-06T20:07:22.2854822+05:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-05-06T20:07:22.2854822+05:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-05-06T20:07:23.3024261+05:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading config.yaml","runtime_seconds":0.3623085,"progress":"862B/862B"}],"total_operations":1}}
+{"time":"2025-05-06T20:07:23.3339188+05:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-05-06T20:07:23.667695+05:00","level":"INFO","msg":"stream: closing","id":"gh3z6tdi"}
+{"time":"2025-05-06T20:07:23.667695+05:00","level":"INFO","msg":"handler: closed","stream_id":"gh3z6tdi"}
+{"time":"2025-05-06T20:07:23.667695+05:00","level":"INFO","msg":"writer: Close: closed","stream_id":"gh3z6tdi"}
+{"time":"2025-05-06T20:07:23.667695+05:00","level":"INFO","msg":"sender: closed","stream_id":"gh3z6tdi"}
+{"time":"2025-05-06T20:07:23.667695+05:00","level":"INFO","msg":"stream: closed","id":"gh3z6tdi"}

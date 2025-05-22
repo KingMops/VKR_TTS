@@ -1,0 +1,15 @@
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_15.wav|Тралл, Рексар, я пришла с миром. Поверьте, я не замешана в том, что делает мой отец. Я не хотела всего этого. Я. Я просто не знаю что делать.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_85.wav|Эти корабли и солдаты. Я поняла Рексар! Это
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_103.wav|Думаю это был некромант. Наверняка эта эпидемия дело рук его прислужников.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_60.wav|Я, Джайна Праудмур. Предводительница людей из Лордерона. Тех, кто остался в живых.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_7.wav|Адмирал? Не может быть. Мы должны немедленно вернуться на Терамор.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_44.wav|Всё что я хотела, это учиться.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_117.wav|Ты! Артас делает лишь то, что считает правильным.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_122.wav|Похоже тучи сгущаются.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_148.wav|Демоны возвращаются! Отправьте подкрепления! Скорее!
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_30.wav|Полностью с тобой согласна.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_39.wav|Лорд Утер?
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_101.wav|Мы высоко ценим великодушие эльфов.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_72.wav|На нас напали! Помогите, скорее!
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_144.wav|Постой, это же безумие! Неужели, ты думаешь, что я
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark_vkr_tts/datasets/jaina/wavs/jaina_128.wav|Ладно.

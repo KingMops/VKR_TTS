@@ -1,0 +1,10 @@
+{"time":"2025-05-04T15:01:03.2615322+05:00","level":"INFO","msg":"main: starting server","port-filename":"C:\\Users\\nevzo\\AppData\\Local\\Temp\\tmpun9x5lja\\port-28996.txt","pid":28996,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false}
+{"time":"2025-05-04T15:01:03.2656841+05:00","level":"INFO","msg":"Will exit if parent process dies.","ppid":28996}
+{"time":"2025-05-04T15:01:03.2656841+05:00","level":"INFO","msg":"server is running","addr":{"IP":"127.0.0.1","Port":49614,"Zone":""}}
+{"time":"2025-05-04T15:01:03.4343816+05:00","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"127.0.0.1:49615"}
+{"time":"2025-05-04T15:01:04.0022937+05:00","level":"INFO","msg":"handleInformInit: received","streamId":"n8t5wnjl","id":"127.0.0.1:49615"}
+{"time":"2025-05-04T15:01:04.4588286+05:00","level":"INFO","msg":"handleInformInit: stream started","streamId":"n8t5wnjl","id":"127.0.0.1:49615"}
+{"time":"2025-05-04T15:07:26.3693436+05:00","level":"INFO","msg":"handleInformFinish: finish message received","streamId":"n8t5wnjl","id":"127.0.0.1:49615"}
+{"time":"2025-05-04T15:07:26.3699318+05:00","level":"INFO","msg":"handleInformFinish: stream closed","streamId":"n8t5wnjl","id":"127.0.0.1:49615"}
+{"time":"2025-05-04T15:19:20.5722404+05:00","level":"ERROR","msg":"connection: fatal error reading connection","error":"read tcp 127.0.0.1:49614->127.0.0.1:49615: wsarecv: An existing connection was forcibly closed by the remote host.","id":"127.0.0.1:49615"}
+{"time":"2025-05-04T15:59:15.7230632+05:00","level":"INFO","msg":"Parent process exited, terminating service process."}

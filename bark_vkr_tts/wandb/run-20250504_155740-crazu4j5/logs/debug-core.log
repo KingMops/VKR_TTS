@@ -1,0 +1,7 @@
+{"time":"2025-05-04T15:57:39.4483894+05:00","level":"INFO","msg":"main: starting server","port-filename":"C:\\Users\\nevzo\\AppData\\Local\\Temp\\tmpnt_3r4d2\\port-20364.txt","pid":20364,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false}
+{"time":"2025-05-04T15:57:39.4514735+05:00","level":"INFO","msg":"Will exit if parent process dies.","ppid":20364}
+{"time":"2025-05-04T15:57:39.4514735+05:00","level":"INFO","msg":"server is running","addr":{"IP":"127.0.0.1","Port":56638,"Zone":""}}
+{"time":"2025-05-04T15:57:39.6354485+05:00","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"127.0.0.1:56639"}
+{"time":"2025-05-04T15:57:40.2581495+05:00","level":"INFO","msg":"handleInformInit: received","streamId":"crazu4j5","id":"127.0.0.1:56639"}
+{"time":"2025-05-04T15:57:40.6822019+05:00","level":"INFO","msg":"handleInformInit: stream started","streamId":"crazu4j5","id":"127.0.0.1:56639"}
+{"time":"2025-05-04T15:59:15.6377672+05:00","level":"INFO","msg":"Parent process exited, terminating service process."}

@@ -1,0 +1,8 @@
+{"time":"2025-05-04T16:07:33.6968592+05:00","level":"INFO","msg":"main: starting server","port-filename":"C:\\Users\\nevzo\\AppData\\Local\\Temp\\tmpqo9of4lg\\port-24444.txt","pid":24444,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false}
+{"time":"2025-05-04T16:07:33.7001047+05:00","level":"INFO","msg":"Will exit if parent process dies.","ppid":24444}
+{"time":"2025-05-04T16:07:33.7001047+05:00","level":"INFO","msg":"server is running","addr":{"IP":"127.0.0.1","Port":58514,"Zone":""}}
+{"time":"2025-05-04T16:07:33.7948903+05:00","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"127.0.0.1:58515"}
+{"time":"2025-05-04T16:07:34.3961063+05:00","level":"INFO","msg":"handleInformInit: received","streamId":"hh22kkak","id":"127.0.0.1:58515"}
+{"time":"2025-05-04T16:07:34.8412345+05:00","level":"INFO","msg":"handleInformInit: stream started","streamId":"hh22kkak","id":"127.0.0.1:58515"}
+{"time":"2025-05-04T17:12:43.1844877+05:00","level":"INFO","msg":"handleInformFinish: finish message received","streamId":"hh22kkak","id":"127.0.0.1:58515"}
+{"time":"2025-05-04T17:12:43.1865554+05:00","level":"INFO","msg":"handleInformFinish: stream closed","streamId":"hh22kkak","id":"127.0.0.1:58515"}

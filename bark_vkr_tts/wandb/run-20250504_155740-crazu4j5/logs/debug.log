@@ -1,0 +1,58 @@
+2025-05-04 15:57:40,224 INFO    MainThread:20364 [wandb_setup.py:_flush():68] Current SDK version is 0.19.10
+2025-05-04 15:57:40,224 INFO    MainThread:20364 [wandb_setup.py:_flush():68] Configure stats pid to 20364
+2025-05-04 15:57:40,224 INFO    MainThread:20364 [wandb_setup.py:_flush():68] Loading settings from C:\Users\nevzo\.config\wandb\settings
+2025-05-04 15:57:40,224 INFO    MainThread:20364 [wandb_setup.py:_flush():68] Loading settings from c:\Users\nevzo\VS Code Projects\VKR_TTS\bark-with-voice-clone\wandb\settings
+2025-05-04 15:57:40,224 INFO    MainThread:20364 [wandb_setup.py:_flush():68] Loading settings from environment variables
+2025-05-04 15:57:40,224 INFO    MainThread:20364 [wandb_init.py:setup_run_log_directory():724] Logging user logs to c:\Users\nevzo\VS Code Projects\VKR_TTS\bark-with-voice-clone\wandb\run-20250504_155740-crazu4j5\logs\debug.log
+2025-05-04 15:57:40,224 INFO    MainThread:20364 [wandb_init.py:setup_run_log_directory():725] Logging internal logs to c:\Users\nevzo\VS Code Projects\VKR_TTS\bark-with-voice-clone\wandb\run-20250504_155740-crazu4j5\logs\debug-internal.log
+2025-05-04 15:57:40,224 INFO    MainThread:20364 [wandb_init.py:monkeypatch_ipython():643] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x0000023AE17F72E0>
+2025-05-04 15:57:40,225 INFO    MainThread:20364 [wandb_init.py:init():852] calling init triggers
+2025-05-04 15:57:40,225 INFO    MainThread:20364 [wandb_init.py:init():857] wandb.init called with sweep_config: {}
+config: {'_wandb': {}}
+2025-05-04 15:57:40,225 INFO    MainThread:20364 [wandb_init.py:init():893] starting backend
+2025-05-04 15:57:40,225 INFO    MainThread:20364 [wandb_init.py:init():897] sending inform_init request
+2025-05-04 15:57:40,257 INFO    MainThread:20364 [backend.py:_multiprocessing_setup():101] multiprocessing start_methods=spawn, using: spawn
+2025-05-04 15:57:40,257 INFO    MainThread:20364 [wandb_init.py:init():907] backend started and connected
+2025-05-04 15:57:40,258 INFO    MainThread:20364 [wandb_run.py:_label_probe_notebook():1369] probe notebook
+2025-05-04 15:57:40,259 INFO    MainThread:20364 [wandb_init.py:init():1002] updated telemetry
+2025-05-04 15:57:40,337 INFO    MainThread:20364 [wandb_init.py:init():1026] communicating run to backend with 90.0 second timeout
+2025-05-04 15:57:40,922 INFO    MainThread:20364 [wandb_init.py:init():1101] starting run threads in backend
+2025-05-04 15:57:41,049 INFO    MainThread:20364 [wandb_run.py:_console_start():2566] atexit reg
+2025-05-04 15:57:41,050 INFO    MainThread:20364 [wandb_run.py:_redirect():2414] redirect: wrap_raw
+2025-05-04 15:57:41,050 INFO    MainThread:20364 [wandb_run.py:_redirect():2483] Wrapping output streams.
+2025-05-04 15:57:41,050 INFO    MainThread:20364 [wandb_run.py:_redirect():2506] Redirects installed.
+2025-05-04 15:57:41,052 INFO    MainThread:20364 [wandb_init.py:init():1147] run started, returning control to user process
+2025-05-04 15:57:41,052 INFO    MainThread:20364 [wandb_run.py:_config_callback():1429] config_cb None None {}
+2025-05-04 15:57:41,053 INFO    MainThread:20364 [wandb_init.py:_post_run_cell_hook():613] [no run ID] resuming backend
+2025-05-04 15:57:46,113 INFO    MainThread:20364 [jupyter.py:save_ipynb():401] [no run ID] not saving jupyter notebook
+2025-05-04 15:57:46,113 INFO    MainThread:20364 [wandb_init.py:_pre_run_cell_hook():602] [no run ID] pausing backend
+2025-05-04 15:57:47,119 INFO    MainThread:20364 [wandb_init.py:_post_run_cell_hook():613] [no run ID] resuming backend
+2025-05-04 15:57:51,478 INFO    MainThread:20364 [jupyter.py:save_ipynb():401] [no run ID] not saving jupyter notebook
+2025-05-04 15:57:51,478 INFO    MainThread:20364 [wandb_init.py:_pre_run_cell_hook():602] [no run ID] pausing backend
+2025-05-04 15:58:52,993 INFO    MainThread:20364 [wandb_init.py:_post_run_cell_hook():613] [no run ID] resuming backend
+2025-05-04 15:59:15,813 WARNING MsgRouterThr:20364 [router.py:message_loop():63] [no run ID] message_loop has been closed
+Traceback (most recent call last):
+  File "c:\Users\nevzo\VS Code Projects\VKR_TTS\venv\lib\site-packages\wandb\sdk\lib\sock_client.py", line 208, in _read_packet_bytes
+    data = self._sock.recv(self._bufsize)
+ConnectionResetError: [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\nevzo\VS Code Projects\VKR_TTS\venv\lib\site-packages\wandb\sdk\interface\router_sock.py", line 27, in _read_message
+    return self._sock_client.read_server_response(timeout=1)
+  File "c:\Users\nevzo\VS Code Projects\VKR_TTS\venv\lib\site-packages\wandb\sdk\lib\sock_client.py", line 235, in read_server_response
+    data = self._read_packet_bytes(timeout=timeout)
+  File "c:\Users\nevzo\VS Code Projects\VKR_TTS\venv\lib\site-packages\wandb\sdk\lib\sock_client.py", line 212, in _read_packet_bytes
+    raise SockClientClosedError from e
+wandb.sdk.lib.sock_client.SockClientClosedError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\nevzo\VS Code Projects\VKR_TTS\venv\lib\site-packages\wandb\sdk\interface\router.py", line 56, in message_loop
+    msg = self._read_message()
+  File "c:\Users\nevzo\VS Code Projects\VKR_TTS\venv\lib\site-packages\wandb\sdk\interface\router_sock.py", line 29, in _read_message
+    raise MessageRouterClosedError from e
+wandb.sdk.interface.router.MessageRouterClosedError
+2025-05-04 15:59:15,836 INFO    MsgRouterThr:20364 [mailbox.py:close():129] [no run ID] Closing mailbox, abandoning 1 handles.

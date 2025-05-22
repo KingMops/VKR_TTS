@@ -1,0 +1,11 @@
+{"time":"2025-05-04T15:57:40.2623043+05:00","level":"INFO","msg":"stream: starting","core version":"0.19.10","symlink path":"c:\\Users\\nevzo\\VS Code Projects\\VKR_TTS\\bark-with-voice-clone\\wandb\\run-20250504_155740-crazu4j5\\logs\\debug-core.log"}
+{"time":"2025-05-04T15:57:40.6805616+05:00","level":"INFO","msg":"created new stream","id":"crazu4j5"}
+{"time":"2025-05-04T15:57:40.6810806+05:00","level":"INFO","msg":"handler: started","stream_id":"crazu4j5"}
+{"time":"2025-05-04T15:57:40.6810806+05:00","level":"INFO","msg":"writer: Do: started","stream_id":"crazu4j5"}
+{"time":"2025-05-04T15:57:40.6810806+05:00","level":"INFO","msg":"stream: started","id":"crazu4j5"}
+{"time":"2025-05-04T15:57:40.6810806+05:00","level":"INFO","msg":"sender: started","stream_id":"crazu4j5"}
+{"time":"2025-05-04T15:57:40.9250988+05:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-04T15:57:46.1147283+05:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-04T15:57:47.1199835+05:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-04T15:57:51.4795702+05:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-04T15:58:52.998767+05:00","level":"INFO","msg":"Resuming system monitor"}

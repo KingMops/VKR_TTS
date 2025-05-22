@@ -1,0 +1,500 @@
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_1.wav|Ты уже забыл? Омлет с перцем, грибами и луком. Спасибо.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_10.wav|Давай, пристань уже рядом.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_100.wav|Извини, пожалуйста, зачем ты мне это рассказываешь?
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_101.wav|Это не Рагнарёк. Пока нет. Началось сопряжение сфер.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_102.wav|Собственно, ты даже не изменился.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_103.wav|Ты сама хотела сюда прийти.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_104.wav|Это оружие.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_105.wav|Не знаю. Расскажи мне что-нибудь.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_106.wav|Главное не расходиться!
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_107.wav|Надевай маску, у нас нет времени.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_108.wav|Решил составить мне компанию?
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_109.wav|Как гиря на ноге.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_11.wav|Мы осмотрели твою лабораторию.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_110.wav|На самом деле только мы с тобой знаем, с чем нам придется сразиться.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_111.wav|Используй маску.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_112.wav|Каин Джинн, Врих Каисте, АНГХ
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_113.wav|Бран был великим владыкой.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_114.wav|Они шпионят для мышавура.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_115.wav|Когда ты пытался открыть дверь, тебя уколола отравленная игла.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_116.wav|Заяца Риген
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_117.wav|А что будет позже? Не сбрасывай со счетов своего отца только потому, что это самое богатое и наиболее влиятельное.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_118.wav|Ещё немного, и я чувствую, как он слабеет.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_119.wav|Уже получил, что заслужил.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_12.wav|Посмотрим, что на самом деле задумал Аволаг.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_120.wav|Идём. Попробуем найти следующее место.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_121.wav|Попробую его найти. Идём.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_122.wav|Он хочет подарить острова тебе вместе с Циндрой и остальной империей.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_123.wav|Я тебя не брошу. Давай вместе.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_124.wav|Угу.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_125.wav|Он сильнее, чем я думала!
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_126.wav|Нет.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_127.wav|Надень маску.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_128.wav|Мы вышли подышать свежим воздухом.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_129.wav|Ниной. Раз. Два.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_13.wav|Отойди-ка.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_130.wav|Я подожду тебя. Возвращайся быстрее, хорошо?
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_131.wav|Времени всё меньше.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_132.wav|Чародеем Гэра? Безусловно.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_133.wav|Я не знаю, Геральт, и не хочу узнать.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_134.wav|Знаю. Можешь принести еще после тренировки.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_135.wav|Думаешь, кто-то может меня обидеть?
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_136.wav|С тех пор, как Цири была маленькой девочкой.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_137.wav|Я помню, когда мы жили в Айрт Генваэль, ты пытался сварить яйца в смятку, без воды.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_138.wav|Люди меняются, мужчины лысеют, отпускают бороды.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_139.wav|Это род донора.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_14.wav|В видении он улетел куда-то туда.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_140.wav|Каисте Аэдис Глэйр, гвэрит ми кассе.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_141.wav|Наверняка лаборатория где-то здесь. Кстати, я чувствую магическую ауру.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_142.wav|Соберись, у нас нет времени.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_143.wav|Я думаю, только ты и можешь ему доверять, и даже должна.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_144.wav|Ну как?
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_145.wav|Дай подумать. Она ужасно запущенная.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_146.wav|Прекрасно.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_147.wav|Я не знаю, Геральт. Скорми ему собственную ляжку. Меня это не очень интересует.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_148.wav|Похоже, кто-то был здесь буквально минуту назад.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_149.wav|Ты дерёшься лучше, чем раньше. Я думала, это невозможно.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_15.wav|Геральт, отодвинься, иначе я опущу его тебе на голову.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_150.wav|Хорошо, как скажешь. Если что, я помогу тебе с заклятиями со стены.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_151.wav|Кажется, госпожа, ты говоришь о ком-то определенном.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_152.wav|Геральт, я сейчас не расположена к шуткам, особенно к дурацким.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_153.wav|Сомневаюсь, что ты сможешь с ним договориться, даже на правах старого знакомого.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_154.wav|Ага, пока.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_155.wav|Даже если трус умер, мы что-нибудь придумаем.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_156.wav|Что?
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_157.wav|О ней не договорились, император обещал безопасность ложе, но...
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_158.wav|Да, давай за мной. И не расслабляйся.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_159.wav|Как ты заметил, у меня изменился стиль.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_16.wav|Пссс, стражники!
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_160.wav|Ну да.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_161.wav|Идём, я кое-что придумала.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_162.wav|Я не читаю твои мысли, это просто телепатия.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_163.wav|Придется привыкнуть.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_164.wav|Ты эти слова разжуй и проглоти!
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_165.wav|Хм...
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_166.wav|Хватит уже строить из себя ведьмака-виртуоза на гастролях. Мы здесь для того, чтобы узнать хоть что-то о Цири. Я должна тебя об этом напоминать?
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_167.wav|Использую Акси, дьявол!
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_168.wav|Точнее, отвлёкся на меня.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_169.wav|Это так.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_17.wav|Если вход так хорошо защищён, мы наверняка найдём там что-то интересное.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_170.wav|Кстати, тебе есть что скрывать?
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_171.wav|Ах, чтоб тебя!
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_172.wav|Иди сюда. Мы вылезем через окно и пройдём по карнизу.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_173.wav|Придёт время, увидишь.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_174.wav|Когда мы, наконец, придумаем, как перебросить тебя на флагман, ты сам узнаешь, в чём дело.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_175.wav|Геральт, я помогла Трис бежать.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_176.wav|Я не знала, но решила рискнуть.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_177.wav|Побрякушка сработала.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_178.wav|Один раз ты их уже победил. Я знаю, что ты сделаешь это снова.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_179.wav|Я помню, но игра стоит свеч. Подчинив его, я получу огромную силу, а она может нам пригодиться.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_18.wav|У тебя, кажется, были дела.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_180.wav|Да, это важно для меня, очень важно.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_181.wav|Я тебя умоляю. Ламберт вредный, но не глупый.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_182.wav|Чёрт, я порвала платье. Подожди минутку, надо его зашить.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_183.wav|Нет, обожаю смотреть на гниющее мясо.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_184.wav|Белье.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_185.wav|Говорят, её вырастила сама Фрея. В начале времён богиня шла по Скелиге, рассыпая семена между голыми скалами. Но змею Роборос продырявил её короб.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_186.wav|Не вопи, ничего с тобой не будет.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_187.wav|Ты даже не спросишь, зачем я приехала и как тебя нашла.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_188.wav|Того же самого, чего и от тебя. Ты не помнишь?
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_189.wav|Видишь что-нибудь интересное?
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_19.wav|Хоть раз бы взял инициативу на себя.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_190.wav|Браво! Пойдем на палубу, я кое-что придумала.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_191.wav|Женщина-недовесок к мужчине.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_192.wav|Король на островах — фигура, скорее, символическая.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_193.wav|Я собиралась продекламировать хвалебную оду в твою честь, но если ты не в настроении…
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_194.wav|Раевультен Иво Аден!
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_195.wav|Я и туда загляну, но позже. Кроме того, нам правда надо доложиться императро.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_196.wav|Что-то страшно срочное, надо полагать. Контракт на накеров.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_197.wav|Знаешь, Геральт, меня занимает один вопрос.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_198.wav|Могла бы, но ведь такую ты меня и любишь, правда?
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_199.wav|К сожалению, это невозможно. Кое-кто ждет тебя, Геральт, тот, кто ждать не любит.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_2.wav|Вижу, тебя по привычке тянет в леса.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_20.wav|Не обязательно. Джинны по природе злобны и проказливы. Этот мог просто исказить желание господина.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_200.wav|Нас посадили здесь.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_201.wav|Пришли.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_202.wav|Все семена просыпались здесь, поэтому роща такая буйная, а остальной скелеги бесплоден.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_203.wav|С чего ты вдруг отрастил бороду?
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_204.wav|Не знаю я тебя столько лет, и я бы решила, что ты превратился в мелкого мещанина, но я знаю, что ты просто брюзга.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_205.wav|Почему ты коня-то не схватил? Ну ладно, будь по-твоему. Идём.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_206.wav|Потом уедешь себе в ковер и будете жить долго и счастливо.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_207.wav|Золото мне не идёт. Мог бы это запомнить.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_208.wav|Я думала, ты захочешь увидеться с Крахом.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_209.wav|Мы были приманкой, Геральт, оба. Иредин рассчитывал, что Цири рано или поздно за нами придёт, и тогда он её схватит.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_21.wav|Ты его ослабишь, а я заключу в шар.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_210.wav|Мне так кажется. Когда я осмотрю это место, смогу сказать наверняка.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_211.wav|Геральт, сюда!
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_212.wav|Я тебя умоляю, я зачарую иглу.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_213.wav|Амос был не из бедных. Вполне возможно, это его корабль.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_214.wav|В следующий раз держись сзади, хорошо? Лучше буду тебя защищать, чем штопать после боя.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_215.wav|Ха!
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_216.wav|Ты шутишь? Здесь благоприятный для вегетации климат. Вот и всё.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_217.wav|Эй, Геральт, вернись!
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_218.wav|Правда.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_219.wav|Прошло немало лет с тех пор, как ты учил её в Каэр-Морхене.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_22.wav|Я думала, мы начнём с дерева.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_220.wav|Хм...
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_221.wav|Это трус?
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_222.wav|Геральт
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_223.wav|К счастью, она не позволила себя обмануть.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_224.wav|Тебе идёт.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_225.wav|Это я и хотела бы узнать, но, покуда мышавуру мне мешает, мы не узнаем ничего.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_226.wav|Я хочу забрать маску у Робороса. Эта вещица нам понадобится, значит, придётся её украсть.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_227.wav|Это сделала Цири в детстве. Когда он был её учителем, она так его называла.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_228.wav|Да, а потом Филиппа говорила насчёт регенерации зрения.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_229.wav|Что? Не слышу. Хочешь поговорить, подойди ближе.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_23.wav|Гляди Геральт.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_230.wav|Какое тебе дело до остальных?
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_231.wav|Ты останешься в крепости. Если они прорвутся внутрь, мы все придем к тебе на помощь.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_232.wav|Точно. Подпоить хотя бы нескольких, и всё пойдёт гораздо легче.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_233.wav|Она умерла. Как я и говорила, заклинание требует много энергии.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_234.wav|Многое изменилось.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_235.wav|Здесь слишком глубоко, ты не донырнёшь.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_236.wav|Может, будешь пить больше эликсиров? Что-то ты медленный.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_237.wav|Я скучала по тебе, чертовски.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_238.wav|Не собиралась. Я знала, что ты будешь против. Твоё чувство так-то очаровательно, но иногда оно лишнее.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_239.wav|Ты не рассказывал о героической битве с Моркворгом.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_24.wav|Белый шлат.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_240.wav|Как раз наоборот, я даже попросила тебя о помощи.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_241.wav|О, вижу, под боком утристый разленился. Форма уже не та, что раньше.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_242.wav|Только не задерживайтесь, хорошо?
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_243.wav|Я наложу на тебя заклятие. На какое-то время оно замедлит твое сердцебиение, и ты сможешь дольше продержаться под водой.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_244.wav|Да, мы хорошая пара.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_245.wav|Что?
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_246.wav|Как мне не хватало этих твоих неловких комплиментов.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_247.wav|Пойдём на улицу. Будем держаться за руки, смотреть на небо, как в романчике за две кроны.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_248.wav|А значит, надо всё успеть, пока они не сообразили, что здесь происходит.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_249.wav|Я попробую найти в дворцовой библиотеке хоть что-нибудь, что поможет понять, кого или что за чудовище видел Скьяль.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_25.wav|Мне тоже.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_250.wav|Угу. Ты вообще дом не любишь. Саму мысль о нём.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_251.wav|И правда, возвращайся наверх.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_252.wav|Тот, кто лучше тебя знает обычаи. Ты оскорбляешь память Брана и гостеприимство Краха.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_253.wav|Что-то здесь есть, на дне.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_254.wav|Бессовестный интриган!
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_255.wav|Но сейчас давай сосредоточимся на цели, хорошо?
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_256.wav|Ты помнишь, как я просила, чтобы ты перебрался ради меня в Венгерберг? Вот мы тогда подсапались.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_257.wav|Не нравится мне это. Мы так не договаривались. Когда всё кончится, я вызову императора на честный разговор.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_258.wav|Ненавижу, когда ты уходишь, не сказав ни слова.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_259.wav|Наверное, того же, что и редин. Собирается использовать ее, чтобы открывать ворота между мирами.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_26.wav|Я попробую взломать барьер.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_260.wav|Смерть достойной воина Скеллиги.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_261.wav|Пойдем, все уже нас ждут.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_262.wav|Корабль с джинном затонул где-то здесь.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_263.wav|Успокойся, я только посмотрю, что здесь произошло.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_264.wav|У тебя получается всё лучше и лучше.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_265.wav|Мышавур любит развлечься за чужой счёт. Чувствую, маска будет в этом помещении.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_266.wav|Это не метеорит.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_267.wav|Встретимся наверху! Быстрей!
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_268.wav|Кроме того, есть вещи, которых я, пожалуй, не хочу о тебе знать.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_269.wav|Я предпочитаю наблюдать за событиями сверху.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_27.wav|Вижу, ты не забыл, как обходиться с мячом.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_270.wav|Стены, поросшие плющом, заброшенные рощи. Жаль, мы не попали сюда при других обстоятельствах.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_271.wav|Очень сомневаюсь.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_272.wav|Я наложу заклятие на лодку, и мы сможем понять, когда будем проплывать над островом корабля.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_273.wav|Эффект телепортации. Огромная сила срезала морское дно, скалы и всё, что было в пределах телепорта.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_274.wav|А этому я научилась под Бренной.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_275.wav|Если верить книгам, законы природы перестанут действовать. Тяготение, время, весь Ундвиг станет с ног на голову.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_276.wav|Ты считаешь, что это может быть Цири, превращенная заклинанием?
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_277.wav|Пытки, допросы. Потом, возможно, смерть. Филиппу наверняка.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_278.wav|Надо представить рапорт Императору.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_279.wav|Это не совсем то, что я просила, но выглядит аппетитно.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_28.wav|Мы пришли. Надень маску.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_280.wav|Есть что-нибудь?
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_281.wav|Мне нечем гордиться, Геральт, но я очень многим рисковала, спасая Трис.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_282.wav|Кажется, мы на верном пути. Ищи что-то, в чем могли запереть Джина.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_283.wav|Помню, помню, хотя мне больше нравился вид прямо перед глазами.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_284.wav|Геральт, мы должны об этом думать.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_285.wav|Палочка-мышавура. Друиды их почти не используют.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_286.wav|Кристалл мегаскопа? Проклятье, он треснул, но не окончательно.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_288.wav|Кто-нибудь выжил?
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_289.wav|Нет, ничуть.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_29.wav|Геральт, осторожней!
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_290.wav|Ого! Это, наверное, и есть моркворк. Ничего себе аппетит.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_291.wav|Может, и так. Но не об этом мы договаривались с Ингером. Мы обязаны с ним встретиться.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_292.wav|Думаю, её можно обойти.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_293.wav|Ты не пошел с ней?
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_294.wav|Я так и подумала. Хорошо, что ты поехал с ней.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_295.wav|Началось сопряжение сфер. Миры соприкоснулись и проникают друг в друга. Овалаг может этим воспользоваться, чтобы перенести сюда Айн Эйли или нечто куда худшее.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_296.wav|Ты что?
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_297.wav|Начнём поиски с берега.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_298.wav|Это в Кереке, после того, как мы...
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_299.wav|Избавься от них!
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_3.wav|Там что-то есть. Очередной остров.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_30.wav|Лучше выяснить это сейчас, чем потом все время ждать, нажав спину.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_300.wav|Это конец.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_301.wav|Беги, уйдет же!
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_302.wav|Я буду ждать тебя на берегу Улафотена.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_303.wav|Это очень трудно, но возможно. Как я поняла, она собиралась имплантировать ткани, выращенные на драгоценных камнях.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_304.wav|Вот и мастерская нашего друида. Надо её обыскать. Маска Урабороса должна быть здесь.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_305.wav|Так, по крайней мере, следует из его книг. Он описывал, как обуздал Джина и как черпал энергию из его силы.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_306.wav|Сможешь его открыть?
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_307.wav|Со мной всё в порядке. Иди, иди. И передай Валакху мой пламенный привет.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_308.wav|Ага, вот в чём дело.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_309.wav|Похоже, он нам не рад.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_31.wav|Из него вышли двое.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_310.wav|Привет тебе, Арнвальд. Мой товарищ Геральт из Ривии.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_311.wav|Справедливо, ты прав.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_312.wav|До сих пор это удавалось только Вильгефорцу. Если у неё получится… Ну, её можно будет поздравить.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_313.wav|Я мечтаю найти Джина. Попробую его открыть.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_314.wav|А если нет?
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_315.wav|Ты напал не на ту чародейку.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_316.wav|Постарайтесь побыстрее. И ещё. Цири, не влезай, пожалуйста, ни в какие неприятности. Хорошо?
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_317.wav|Геральт, сирены!
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_318.wav|Нет.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_319.wav|Ммммммах!
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_32.wav|Но она сбежала снова через портал.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_320.wav|Так с чего мы начнем?
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_321.wav|Мы идём по их следу, каждая...
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_322.wav|Нет, я просто не хочу спать на кровати, в которой ты грелся с трис.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_323.wav|Ладно, забудем. Самое главное, я, наконец, смогу связаться с Идой.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_324.wav|Встретимся позже на Оксенфордском мосту.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_325.wav|Однажды в мою камеру пришел не тот же офицер, что и всегда, а сам император.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_326.wav|Ты нашел Джина?
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_327.wav|Я хочу знать, останется ли между нами магия, если чары Джина исчезнут.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_328.wav|Какое интересное хобби.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_329.wav|Геральт, я говорю тебе в который раз, у нас нет времени, у Цири нет времени.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_33.wav|Сейчас.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_330.wav|Собрался пустить себе кровь для богини?
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_331.wav|Геральт, ты мне нужен трезвым.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_332.wav|Разорённые хаты, свежие могилы. А, похоже, мы на месте.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_333.wav|Он и твой покровитель, мой дорогой, не забывай, иначе он сам об этом напомнит.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_334.wav|Останься, сам увидишь.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_335.wav|Он сказал, что вернёт мне свободу, а императорская сокровищница будет для меня открыта, если только я исполню одну его просьбу.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_336.wav|Когда я с тобой покончу, хоронить будет нечего.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_337.wav|Разговоры о дикой охоте всегда не вовремя.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_338.wav|Хорошо, ты бурчи, а я разберусь с остальным.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_339.wav|Я? Что ты? Я удивительно кроткая особа.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_34.wav|Спрячемся за гобеленом.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_340.wav|Общая цель приводит к нетривиальным союзам.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_341.wav|Субтитры добавил DimaTorzok
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_342.wav|Ну, конечно. Как завоевать корону Тимирии и взять Каэр Морхен в ипотечный кредит? Ну, иди уже.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_343.wav|Ты минуту назад говорила, что пока не привыкла к магической симуляции зрения.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_344.wav|Нет, скорее так пахнет сохнуще на солнце аир.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_345.wav|Разумеется.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_346.wav|Я знала, что должна найти Цири, прежде чем это сделает Эридин. А если у кого и были силы и средства, чтобы мне помочь, то только у императора.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_347.wav|Что там у тебя?
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_348.wav|Двери открыты. Собери трофеи с поверженных чудищ и пойдём дальше.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_349.wav|Морская вода плохо действует мне на кожу.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_35.wav|Это правда.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_350.wav|О, вижу, ты расстарался. Спасибо.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_351.wav|Кроме того, в конце концов, он её отец.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_352.wav|Лучше сдавайся сразу!
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_353.wav|Перед тем, как ее схватили, она встречалась с Фаренгильей. Та сказала, что император ее вызвал, и что после встречи она объяснит, в чем дело.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_354.wav|Нет, она не дала бы себя схватить.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_355.wav|Тогда мы бы так и не узнали правды. Изменится ли что-нибудь, когда Джинс снимет заклятие?
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_356.wav|Вербенный.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_357.wav|Я и забыла, как она умеет выводить меня из себя. Пойдем, Цири.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_358.wav|Нет, он бы не напал на господина. Больше похоже на несчастный случай.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_359.wav|Больше Френгелью никто не видел.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_36.wav|Я думала, ты не придёшь.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_360.wav|А ты не знаешь цири.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_361.wav|Лучше поищи корабль.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_362.wav|Мы будем ждать тебя там.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_363.wav|Чем быстрее мы отправимся, тем быстрее ты все узнаешь.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_364.wav|Аббат Фария?
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_365.wav|Поторопись.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_366.wav|Геральт, мы отклонились от темы. Я хочу есть. Я так голодна, что мне все равно, как ты готовишь.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_367.wav|Когда разразился шторм, Амос, наверное, произнёс желание в стиле «Забери нас отсюда хоть на вершину горы». И Джин исполнил желание дословно.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_368.wav|Геральт, нам пора.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_369.wav|Тогда возвращайся и продолжим поиски.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_37.wav|Берегись!
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_370.wav|Не время рисоваться!
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_371.wav|Как водичка, не холодно?
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_372.wav|Странные какие-то скалы.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_373.wav|Я искупаюсь, сделаю макияж, а ты как раз позанимаешься и вернёшься.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_374.wav|В последний раз корабль Амоса видели у побережья Хиндерсфьяля. А потом разразилась буря, самая сильная за сто лет.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_375.wav|Потом случилась жёсткая посадка. Амаса вырвала из башмаков и швырнула о стену. А книжная полка довершила дело.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_376.wav|Люблю женщин со скелеги. Из каждой могла бы выйти чародейка.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_377.wav|Отлично. Было бы ещё лучше, если бы ты задал этот вопрос без моих намёков.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_378.wav|С дочерьми. Полной версии я и сама не видела.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_379.wav|Ну, знаешь, сколько волка не корми.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_38.wav|Геральт! Ты меня напугал!
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_380.wav|Не факт, но даже если так, я хочу в этом убедиться. Поможешь мне?
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_381.wav|Перестань.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_382.wav|Литтенэйт по прозвищу Коралл. Не припоминаешь?
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_383.wav|Пойдём.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_384.wav|Верно.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_385.wav|А ты их так много знал?
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_386.wav|Это правда. Может, мне сразу телепортировать тебя в Веллен?
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_387.wav|Времена опасны, особенно для чародеек. Каждая пять раз подумает, прежде чем подставить за кого-нибудь шею.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_388.wav|Интересные вещи наш друг рассказал о стражниках.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_389.wav|Я тебя и не заставляю.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_39.wav|И ты рассказал бы нам все о том, как забавлялся с геном старшей крови.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_390.wav|Большое спасибо. Мы знаем, как встать по кругу.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_391.wav|Значит, легендарный охотник за чудовищами превратился в охотника за головами?
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_392.wav|Похоже, Авалагх исследовал все линии гена Лары. Даже те, которые мы считали исчезнувшими.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_393.wav|Геральт
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_394.wav|Мы ищем одну вещицу, маску у Робороса, она нам понадобится.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_395.wav|Давай, Геральт!
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_396.wav|Ничего, кому повезёт, у того и волк снесёт.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_397.wav|Ты видишь что-нибудь?
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_398.wav|Да, всё дело в нашей любимой Трис.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_399.wav|Хорошая мысль. Я поищу проход к руинам.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_4.wav|Геральт, иди сюда! Я нашла маску!
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_40.wav|Надо спешить.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_400.wav|Сюда.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_401.wav|Дело твоё. Кстати, тебе правда идёт чёрный бархат.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_402.wav|Поговорим наверху, ладно?
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_403.wav|Надеюсь, затонувший корабль ты обыщешь так же ловко.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_404.wav|Я должна на это посмотреть.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_405.wav|Разумеется, я права.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_406.wav|Геральт, может, хватит?
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_407.wav|Смотри.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_408.wav|И тебе. Послушай, если ты вдруг захочешь узнать, что случилось в мире, пока ты шатался с Вессимиром по бездорожью, поговори с послом Воратра. Это вон тот тип.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_409.wav|Пришли.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_41.wav|Может и так, но у меня есть причина.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_410.wav|Нет, я наложу на тебя заклятие и буду видеть твоими глазами. Расслабься.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_411.wav|Не сомневаюсь, можем считать, что ты выиграл.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_412.wav|Иди, я подожду здесь.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_413.wav|Ассофат Бэйбэм. Айн Эхте Ливайт.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_414.wav|Могу.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_415.wav|Да, порядок. Это заклинание.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_416.wav|Эс-Лад Эйх Кри-Дэ Ри-Фаун
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_417.wav|Геральт, взгляни.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_418.wav|Хорошо. Когда будет больше времени, мы к этому ещё вернёмся.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_419.wav|Геральт, сколько мне тут торчать? Мы плывём?
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_42.wav|Я готова коня с копытами съесть, а потом и зерно из его кормушки.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_420.wav|Штуаха.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_421.wav|И, Геральт, я знаю, что кругом война, всё такое, но не пытайся стать героем, хорошо? Просто проверь эти следы и приезжай ко мне, живым и здоровым.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_422.wav|Представь, что ты набираешь полный рот живых червей или окунаешься в гной. Ощущения примерно то же.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_423.wav|Ты садишься или нет?
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_424.wav|Если бы не имгыры, его агенты, мы бы даже не знали, что Цири вернулась. Мы в долгу перед ним хотя бы за это.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_425.wav|Смысла нет спорить через решетку.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_426.wav|Я буду тебя ждать.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_427.wav|Я тебя умоляю.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_428.wav|Может быть, позже.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_429.wav|Иногда ты меня просто бесишь, ты знаешь?
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_43.wav|Попробуй осмотреться. Что-нибудь должно указывать на то, что это корабль-чародея.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_430.wav|Да.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_431.wav|Беги, уйдет же!
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_432.wav|У тебя уже нет выбора.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_433.wav|Мы по-прежнему говорим о джине или уже о золотой рыбке?
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_434.wav|Кхм-кхм!
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_435.wav|Я была на Хиндерс-Фьяле довольно давно, но, если я правильно помню, Лафотен где-то там.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_436.wav|Геральт из Ривии. Романтическая версия.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_437.wav|Нам надо идти.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_438.wav|Изнурительные тренировки в Каэр-Морхене окупились сполна. Ты одолел почти все чучело зверей.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_439.wav|Скоро узнаешь.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_44.wav|Гвар Ставель
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_440.wav|Что она делает в такой дыре?
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_441.wav|Не знает.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_442.wav|Я не сомневаюсь, что Филиппа собралась возродить ложи чародеек.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_443.wav|Ладно, мы прошли испытания чучелами. Дверь открыта.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_444.wav|Иерархи Новиграда делали всё, чтобы стереть память о бельгском прошлом города.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_445.wav|Первое место я уже нашла.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_446.wav|Геральт, помоги мне!
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_447.wav|Геральт
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_448.wav|Я знаю только, что никому, кроме него, не удавалось сбежать из Дейры, и что его ищет теперь стража со всего города.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_449.wav|Даже если кто-то помнит, что руины существуют, никто не знает, куда они простираются. Тем более, никому не придет в голову ставить там стражу.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_45.wav|Нечто вроде магического взрыва. Настолько сильного, что опасны были даже его отголоски. Думаю, он и уничтожил лес.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_450.wav|Геральт, не хочу показаться злопамятный, но всё-таки ты трахал мою подругу на этой самой кровати.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_451.wav|Возможно, потому что она сидит скованная двумя ритмом в императорских застенках.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_452.wav|Готово. Осторожней.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_453.wav|Попробуй припомнить. Это для нас очень важно.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_454.wav|Я бы в любом случае отказалась. Филиппо считает, что только ложа может позаботиться о чародеях. Я же предпочитаю действовать в одиночку.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_455.wav|По крайней мере, именно на это намекала Рита.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_456.wav|Сейчас узнаем. Он как раз пришел.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_457.wav|Да, я знаю, ты потерял память. И всё-таки…
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_458.wav|Геральт, я знаю, что нам есть о чём поговорить. Но не здесь, хорошо? Я не хочу оставаться здесь ни минуты.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_459.wav|Кроме того, сейчас неподходящее время. Возрождение Ложи приведет в ярость иродовида, и императора. В их борьбе за влияние наступил решающий момент, и новому игроку они не обрадуются.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_46.wav|Один оттолкнул другого ударом мощной магии и бежал через портал.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_460.wav|Одним меньше.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_461.wav|В старые добрые времена... Ну, не будем об этом. Я хочу есть. Я так голодна, что мне всё равно, как ты готовишь.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_462.wav|Давай так, я не буду тебе об этом напоминать, а ты перестанешь напоминать мне про эту дурацкую кровать. Идёт?
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_463.wav|Не смей уплывать, пока не перестреляешь сирен.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_464.wav|Он хорошо знал Цири. Она в детстве играла с Хиалмаром.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_465.wav|Погоди, это еще не вся лаборатория.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_466.wav|И что?
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_467.wav|Осторожней. Помни, ты ещё нужен мне, чтобы найти Цири.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_468.wav|Теперь пора проверить дно.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_469.wav|У тебя конь быстрый?
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_47.wav|Зависит от обстоятельств.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_470.wav|Геральт. Следующее зелье.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_471.wav|Замечательно. Тогда перейдем к более важным вопросам.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_472.wav|Готово. Выглядит как новое.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_473.wav|Пойдем, обыщем корабль.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_474.wav|Я хочу вернуться за крепкие городские стены, так быстро, как только возможно.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_475.wav|Чтоб тебя!
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_476.wav|Ха, он не только жесток, но и наивен. Опасная смесь. Он действительно думал, что ты станешь ему помогать?
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_477.wav|Эй! Я пошутила. Ты мне нужен. Точка. Так лучше?
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_478.wav|Это мой друг Геральт, а это Бирна, вдова покойного Брана.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_479.wav|Хорошо. Собирай, что сможешь, и поднимайся наверх.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_48.wav|Я ещё не решила, как это сформулировать.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_480.wav|Я сказала, что я его нашла.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_481.wav|Начнём.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_482.wav|Я с ней поговорю. Ты же всё разболтаешь.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_483.wav|ВЕДИМ
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_484.wav|Пойдём.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_485.wav|Я закрою проход, чтобы никто ничего не заподозрил.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_486.wav|И ещё совет напоследок. Смени качму. Здесь все знают, кто ты такой.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_487.wav|С одним мы когда-то справились, помнишь?
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_488.wav|Теперь мы нанесем визит в лабораторию Мышавура.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_489.wav|Он проснулся. Пора. Пора снимать заклятие. Готовь филактерий.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_49.wav|Неужели...
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_490.wav|Почему?
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_491.wav|Угу. Ещё скажи, чтобы я на холодном не сидела. Ну, идём?
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_492.wav|На счастье, его спас твой экзорцизм.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_493.wav|Посмотри на нас. Разве мы похожи на бандитов?
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_494.wav|Смотря что ты имеешь в виду, надо найти Цири, победить дикую охоту.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_495.wav|Это Амос, почти как на гравюре в книге, только с проломленной головой.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_496.wav|Что? Что это?
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_497.wav|Спасибо. На пристани уже ждёт лодка. Пойдём.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_498.wav|Надо было учить иностранные языки.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_499.wav|Он не приглашал.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_5.wav|Вот дрянь. Этот корабль сейчас в щепки разлетится.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_50.wav|Это еще не все сюрпризы. Видишь, Воронов?
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_500.wav|Идём внутрь.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_501.wav|Вот именно. Кроме того, ты для нас гораздо ценнее живой, чем мёртвой.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_51.wav|Вот она. Надо вернуться на пир, пока…
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_52.wav|Вставай, Геральт! Слышишь?
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_53.wav|Я не хотела тебя веселить. Только разбудить? Уже полдень.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_54.wav|Я попробую локализовать другую часть с точности метров до 20.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_55.wav|Геральт, ты думаешь, я надела вечернее платье, чтобы демонстрировать его тюленям?
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_56.wav|Тебе не обязательно с нами идти.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_57.wav|Я понимаю, о чём ты.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_58.wav|Надо торопиться. Ворота между мирами раскрываются всё шире.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_59.wav|Попробую инклюзию Атлана Курка. Помнишь ее?
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_6.wav|Хватай коня, сбережем время!
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_60.wav|Это ни о чем не говорит. Давай осмотримся.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_61.wav|Геральт, хватит трогать мои флаконы.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_62.wav|Не отходи далеко!
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_63.wav|Как хочешь. Я подожду у дерева.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_64.wav|Не снимай маску, пока мы не увидим всего.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_65.wav|Скорее всего.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_66.wav|Пустишь меня к Румпелю?
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_67.wav|Сейчас узнаем, куда.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_68.wav|Надеюсь. Когда найдёшь труса, сразу скажи.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_69.wav|Я всегда права. Спасибо.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_7.wav|Идём.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_70.wav|Раев вулкан Иво Аден!
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_71.wav|Но не беспокойся, Цири может о себе позаботиться.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_72.wav|Хм, все эти годы я думала, как же ты будешь выглядеть.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_73.wav|Геральт, держись рядом!
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_74.wav|Геральт, хватит копаться. Надевай маску.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_75.wav|Ну как, готов?
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_76.wav|И не отходи, радиус телепатии весьма ограничен.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_77.wav|Откуда ты знаешь?
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_78.wav|Чтоб его разорвало!
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_79.wav|Это сложная магическая блокада. Попробуем.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_8.wav|Ладно, тогда встретимся в Ларвике.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_80.wav|Возможно, тебе всё-таки стоит с ним поговорить.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_81.wav|Они не сумели выбраться из Новиграда. Здесь они дали последний безнадёжный бой.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_82.wav|Не сейчас, Цири ждет.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_83.wav|Вызвать Джина и схватить его? Вряд ли ему это понравится. Прикрой меня.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_84.wav|Нет, и ты тоже. Так что прекрати панику.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_85.wav|А может, ты просто помешан на ней?
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_86.wav|Шевелись, Геральт! Я не могу ждать!
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_87.wav|Может, это странно, но я люблю смотреть, как ты работаешь. Особенно, когда у тебя всё получается.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_88.wav|Ну, теперь мы знаем, где его величество Эмгир-Варэмрейс.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_89.wav|Ну-ну, только не надо нежностей.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_9.wav|Здесь кто-то есть, за дверью.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_90.wav|Ты обещал Цири, что позанимаешься с ней.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_91.wav|Магический след ведет в Велин.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_92.wav|Сделала несколько сложных вычислений, экстраполировала кое-какие данные, провела симуляцию процесса.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_93.wav|Надо осмотреть корабль.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_94.wav|Вот именно. Ты готов? Я перенесу нас на счет 3.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_95.wav|Ну-ну, давайте без этого. Фрингилье, нам надо поговорить.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_96.wav|Лучше его догони.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_97.wav|Иди, а то весь мир замучает её своими гравёрами.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_98.wav|Хорошо. Когда проветришься, ищи меня у входа в пиршественный зал.
+c:/Users/nevzo/VS Code Projects/VKR_TTS/bark-with-voice-clone/datasets/yennefer/wavs/yennefer_99.wav|Геральт, что ты с ним возишься?

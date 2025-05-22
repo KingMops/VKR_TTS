@@ -1,0 +1,22 @@
+{"time":"2025-05-05T18:31:27.2242756+05:00","level":"INFO","msg":"stream: starting","core version":"0.19.10","symlink path":"c:\\Users\\nevzo\\VS Code Projects\\VKR_TTS\\bark-with-voice-clone\\wandb\\run-20250505_183127-le6wx8on\\logs\\debug-core.log"}
+{"time":"2025-05-05T18:31:27.7053712+05:00","level":"INFO","msg":"created new stream","id":"le6wx8on"}
+{"time":"2025-05-05T18:31:27.7059484+05:00","level":"INFO","msg":"stream: started","id":"le6wx8on"}
+{"time":"2025-05-05T18:31:27.7059484+05:00","level":"INFO","msg":"handler: started","stream_id":"le6wx8on"}
+{"time":"2025-05-05T18:31:27.7066561+05:00","level":"INFO","msg":"writer: Do: started","stream_id":"le6wx8on"}
+{"time":"2025-05-05T18:31:27.7066561+05:00","level":"INFO","msg":"sender: started","stream_id":"le6wx8on"}
+{"time":"2025-05-05T18:31:28.0332338+05:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-05T18:31:28.1298488+05:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-05T18:31:44.5970338+05:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-05T18:31:44.6321351+05:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-05T18:57:57.1787497+05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/akenar-south-ural-state-university/bark_coarse/le6wx8on/file_stream\": dial tcp 35.186.228.49:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."}
+{"time":"2025-05-05T18:58:02.8004569+05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 192.168.3.11:50616->35.186.228.49:443: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."}
+{"time":"2025-05-05T22:39:03.6408598+05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-05-06T01:37:52.85679+05:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-05-06T01:37:52.85679+05:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-05-06T01:37:53.8655774+05:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.4851515,"progress":"145B/145B"},{"desc":"uploading config.yaml","runtime_seconds":0.268638,"progress":"696B/696B"}],"total_operations":2}}
+{"time":"2025-05-06T01:37:54.2831768+05:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-05-06T01:37:54.6417549+05:00","level":"INFO","msg":"stream: closing","id":"le6wx8on"}
+{"time":"2025-05-06T01:37:54.6417549+05:00","level":"INFO","msg":"handler: closed","stream_id":"le6wx8on"}
+{"time":"2025-05-06T01:37:54.6417549+05:00","level":"INFO","msg":"writer: Close: closed","stream_id":"le6wx8on"}
+{"time":"2025-05-06T01:37:54.6417549+05:00","level":"INFO","msg":"sender: closed","stream_id":"le6wx8on"}
+{"time":"2025-05-06T01:37:54.6417549+05:00","level":"INFO","msg":"stream: closed","id":"le6wx8on"}

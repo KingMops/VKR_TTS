@@ -1,0 +1,8 @@
+{"time":"2025-05-05T13:49:44.5214469+05:00","level":"INFO","msg":"main: starting server","port-filename":"C:\\Users\\nevzo\\AppData\\Local\\Temp\\tmpw9nztxhi\\port-30336.txt","pid":30336,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false}
+{"time":"2025-05-05T13:49:44.5240161+05:00","level":"INFO","msg":"Will exit if parent process dies.","ppid":30336}
+{"time":"2025-05-05T13:49:44.5240161+05:00","level":"INFO","msg":"server is running","addr":{"IP":"127.0.0.1","Port":65064,"Zone":""}}
+{"time":"2025-05-05T13:49:44.7092697+05:00","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"127.0.0.1:65065"}
+{"time":"2025-05-05T13:49:45.3003529+05:00","level":"INFO","msg":"handleInformInit: received","streamId":"za1vq1fn","id":"127.0.0.1:65065"}
+{"time":"2025-05-05T13:49:45.7652002+05:00","level":"INFO","msg":"handleInformInit: stream started","streamId":"za1vq1fn","id":"127.0.0.1:65065"}
+{"time":"2025-05-05T15:15:25.8298808+05:00","level":"INFO","msg":"handleInformFinish: finish message received","streamId":"za1vq1fn","id":"127.0.0.1:65065"}
+{"time":"2025-05-05T15:15:25.8304925+05:00","level":"INFO","msg":"handleInformFinish: stream closed","streamId":"za1vq1fn","id":"127.0.0.1:65065"}

@@ -1,0 +1,2 @@
+Validation Loss: 7.11968889989351 over 150 samples and 19 batches.
+Steps:   2%|▏         | 8/470 [16:56<16:41:34, 130.07s/it, loss=8.01, lr=6.67e-6]

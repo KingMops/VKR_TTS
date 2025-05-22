@@ -1,0 +1,19 @@
+{"time":"2025-05-06T15:38:32.2012095+05:00","level":"INFO","msg":"stream: starting","core version":"0.19.10","symlink path":"c:\\Users\\nevzo\\VS Code Projects\\VKR_TTS\\bark-with-voice-clone\\wandb\\run-20250506_153832-n99f4pt5\\logs\\debug-core.log"}
+{"time":"2025-05-06T15:38:32.6609045+05:00","level":"INFO","msg":"created new stream","id":"n99f4pt5"}
+{"time":"2025-05-06T15:38:32.6624478+05:00","level":"INFO","msg":"stream: started","id":"n99f4pt5"}
+{"time":"2025-05-06T15:38:32.6634825+05:00","level":"INFO","msg":"writer: Do: started","stream_id":"n99f4pt5"}
+{"time":"2025-05-06T15:38:32.6624478+05:00","level":"INFO","msg":"handler: started","stream_id":"n99f4pt5"}
+{"time":"2025-05-06T15:38:32.6634825+05:00","level":"INFO","msg":"sender: started","stream_id":"n99f4pt5"}
+{"time":"2025-05-06T15:38:32.9907681+05:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-06T15:38:33.0974836+05:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-06T15:38:40.1350757+05:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-06T15:38:40.1512723+05:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-06T17:52:43.8904742+05:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-05-06T17:52:43.8904742+05:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-05-06T17:52:44.9127131+05:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.4917639,"progress":"284B/284B"},{"desc":"uploading config.yaml","runtime_seconds":0.272352,"progress":"696B/696B"}],"total_operations":2}}
+{"time":"2025-05-06T17:52:44.9180136+05:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-05-06T17:52:45.364308+05:00","level":"INFO","msg":"stream: closing","id":"n99f4pt5"}
+{"time":"2025-05-06T17:52:45.364308+05:00","level":"INFO","msg":"handler: closed","stream_id":"n99f4pt5"}
+{"time":"2025-05-06T17:52:45.364308+05:00","level":"INFO","msg":"sender: closed","stream_id":"n99f4pt5"}
+{"time":"2025-05-06T17:52:45.364308+05:00","level":"INFO","msg":"writer: Close: closed","stream_id":"n99f4pt5"}
+{"time":"2025-05-06T17:52:45.364308+05:00","level":"INFO","msg":"stream: closed","id":"n99f4pt5"}

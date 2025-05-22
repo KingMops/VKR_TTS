@@ -1,0 +1,11 @@
+{"time":"2025-05-05T17:23:00.3700455+05:00","level":"INFO","msg":"stream: starting","core version":"0.19.10","symlink path":"c:\\Users\\nevzo\\VS Code Projects\\VKR_TTS\\bark-with-voice-clone\\wandb\\run-20250505_172300-m941kmpf\\logs\\debug-core.log"}
+{"time":"2025-05-05T17:23:00.8301945+05:00","level":"INFO","msg":"created new stream","id":"m941kmpf"}
+{"time":"2025-05-05T17:23:00.8301945+05:00","level":"INFO","msg":"stream: started","id":"m941kmpf"}
+{"time":"2025-05-05T17:23:00.8301945+05:00","level":"INFO","msg":"handler: started","stream_id":"m941kmpf"}
+{"time":"2025-05-05T17:23:00.8301945+05:00","level":"INFO","msg":"writer: Do: started","stream_id":"m941kmpf"}
+{"time":"2025-05-05T17:23:00.8301945+05:00","level":"INFO","msg":"sender: started","stream_id":"m941kmpf"}
+{"time":"2025-05-05T17:23:01.1660307+05:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-05T17:23:01.2610659+05:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-05T17:23:17.3717997+05:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-05T17:23:17.3858363+05:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-05T17:23:43.1707703+05:00","level":"INFO","msg":"Resuming system monitor"}

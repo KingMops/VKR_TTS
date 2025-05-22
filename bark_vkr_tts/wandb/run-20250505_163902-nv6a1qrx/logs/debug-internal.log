@@ -1,0 +1,10 @@
+{"time":"2025-05-05T16:39:02.8893983+05:00","level":"INFO","msg":"stream: starting","core version":"0.19.10","symlink path":"c:\\Users\\nevzo\\VS Code Projects\\VKR_TTS\\bark-with-voice-clone\\wandb\\run-20250505_163902-nv6a1qrx\\logs\\debug-core.log"}
+{"time":"2025-05-05T16:39:03.3582537+05:00","level":"INFO","msg":"created new stream","id":"nv6a1qrx"}
+{"time":"2025-05-05T16:39:03.3582537+05:00","level":"INFO","msg":"stream: started","id":"nv6a1qrx"}
+{"time":"2025-05-05T16:39:03.3582537+05:00","level":"INFO","msg":"handler: started","stream_id":"nv6a1qrx"}
+{"time":"2025-05-05T16:39:03.3582537+05:00","level":"INFO","msg":"sender: started","stream_id":"nv6a1qrx"}
+{"time":"2025-05-05T16:39:03.3582537+05:00","level":"INFO","msg":"writer: Do: started","stream_id":"nv6a1qrx"}
+{"time":"2025-05-05T16:39:03.6334255+05:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-05T16:39:03.72684+05:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-05T16:39:20.9007475+05:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-05T16:39:20.9254568+05:00","level":"INFO","msg":"Pausing system monitor"}

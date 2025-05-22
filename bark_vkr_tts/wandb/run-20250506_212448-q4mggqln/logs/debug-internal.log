@@ -1,0 +1,20 @@
+{"time":"2025-05-06T21:24:48.5426115+05:00","level":"INFO","msg":"stream: starting","core version":"0.19.10","symlink path":"c:\\Users\\nevzo\\VS Code Projects\\VKR_TTS\\bark-with-voice-clone\\wandb\\run-20250506_212448-q4mggqln\\logs\\debug-core.log"}
+{"time":"2025-05-06T21:24:48.9804427+05:00","level":"INFO","msg":"created new stream","id":"q4mggqln"}
+{"time":"2025-05-06T21:24:48.9804427+05:00","level":"INFO","msg":"stream: started","id":"q4mggqln"}
+{"time":"2025-05-06T21:24:48.9804427+05:00","level":"INFO","msg":"handler: started","stream_id":"q4mggqln"}
+{"time":"2025-05-06T21:24:48.9804427+05:00","level":"INFO","msg":"sender: started","stream_id":"q4mggqln"}
+{"time":"2025-05-06T21:24:48.9804427+05:00","level":"INFO","msg":"writer: Do: started","stream_id":"q4mggqln"}
+{"time":"2025-05-06T21:24:49.2444228+05:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-06T21:24:49.4662772+05:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-06T21:24:55.3124866+05:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-06T21:24:55.3297789+05:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-06T23:28:14.8070221+05:00","level":"INFO","msg":"api: retrying HTTP error","status":502,"url":"https://api.wandb.ai/files/akenar-south-ural-state-university/bark_coarse/q4mggqln/file_stream","body":"\n<html><head>\n<meta http-equiv=\"content-type\" content=\"text/html;charset=utf-8\">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n"}
+{"time":"2025-05-07T02:58:37.4005393+05:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-05-07T02:58:37.4005393+05:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-05-07T02:58:38.4121825+05:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-05-07T02:58:38.4207138+05:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history steps 134-135, summary, console lines 1-1","runtime_seconds":0.0085313}],"total_operations":1}}
+{"time":"2025-05-07T02:58:38.7580284+05:00","level":"INFO","msg":"stream: closing","id":"q4mggqln"}
+{"time":"2025-05-07T02:58:38.7580284+05:00","level":"INFO","msg":"handler: closed","stream_id":"q4mggqln"}
+{"time":"2025-05-07T02:58:38.7580284+05:00","level":"INFO","msg":"writer: Close: closed","stream_id":"q4mggqln"}
+{"time":"2025-05-07T02:58:38.7580284+05:00","level":"INFO","msg":"sender: closed","stream_id":"q4mggqln"}
+{"time":"2025-05-07T02:58:38.7580284+05:00","level":"INFO","msg":"stream: closed","id":"q4mggqln"}

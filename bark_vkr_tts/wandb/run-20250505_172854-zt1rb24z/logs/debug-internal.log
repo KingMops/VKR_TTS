@@ -1,0 +1,10 @@
+{"time":"2025-05-05T17:28:54.480875+05:00","level":"INFO","msg":"stream: starting","core version":"0.19.10","symlink path":"c:\\Users\\nevzo\\VS Code Projects\\VKR_TTS\\bark-with-voice-clone\\wandb\\run-20250505_172854-zt1rb24z\\logs\\debug-core.log"}
+{"time":"2025-05-05T17:28:55.0504443+05:00","level":"INFO","msg":"created new stream","id":"zt1rb24z"}
+{"time":"2025-05-05T17:28:55.0504443+05:00","level":"INFO","msg":"stream: started","id":"zt1rb24z"}
+{"time":"2025-05-05T17:28:55.0504443+05:00","level":"INFO","msg":"writer: Do: started","stream_id":"zt1rb24z"}
+{"time":"2025-05-05T17:28:55.0504443+05:00","level":"INFO","msg":"sender: started","stream_id":"zt1rb24z"}
+{"time":"2025-05-05T17:28:55.0504443+05:00","level":"INFO","msg":"handler: started","stream_id":"zt1rb24z"}
+{"time":"2025-05-05T17:28:55.3500042+05:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-05T17:28:55.4510664+05:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-05T17:29:12.326021+05:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-05T17:29:12.3530347+05:00","level":"INFO","msg":"Pausing system monitor"}

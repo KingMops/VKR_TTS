@@ -1,0 +1,2 @@
+Validation Loss: 13.53951613108317 over 43 samples and 6 batches.
+Steps: 100%|██████████| 135/135 [5:33:40<00:00, 52.07s/it, loss=1.11, lr=9e-5]    [34m[1mwandb[0m: [32m[41mERROR[0m The nbformat package was not found. It is required to save notebook history.

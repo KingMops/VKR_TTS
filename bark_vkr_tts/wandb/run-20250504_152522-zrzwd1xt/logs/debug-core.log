@@ -1,0 +1,9 @@
+{"time":"2025-05-04T15:25:21.4217535+05:00","level":"INFO","msg":"main: starting server","port-filename":"C:\\Users\\nevzo\\AppData\\Local\\Temp\\tmpyxqexgx9\\port-18512.txt","pid":18512,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false}
+{"time":"2025-05-04T15:25:21.4268176+05:00","level":"INFO","msg":"Will exit if parent process dies.","ppid":18512}
+{"time":"2025-05-04T15:25:21.4268176+05:00","level":"INFO","msg":"server is running","addr":{"IP":"127.0.0.1","Port":52205,"Zone":""}}
+{"time":"2025-05-04T15:25:21.6052503+05:00","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"127.0.0.1:52207"}
+{"time":"2025-05-04T15:25:22.2297979+05:00","level":"INFO","msg":"handleInformInit: received","streamId":"zrzwd1xt","id":"127.0.0.1:52207"}
+{"time":"2025-05-04T15:25:22.8865259+05:00","level":"INFO","msg":"handleInformInit: stream started","streamId":"zrzwd1xt","id":"127.0.0.1:52207"}
+{"time":"2025-05-04T15:46:09.5290713+05:00","level":"INFO","msg":"handleInformFinish: finish message received","streamId":"zrzwd1xt","id":"127.0.0.1:52207"}
+{"time":"2025-05-04T15:46:09.5290713+05:00","level":"INFO","msg":"handleInformFinish: stream closed","streamId":"zrzwd1xt","id":"127.0.0.1:52207"}
+{"time":"2025-05-04T15:59:15.6814072+05:00","level":"INFO","msg":"Parent process exited, terminating service process."}
