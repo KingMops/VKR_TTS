@@ -1,9 +1,0 @@
-numpy
-torch
-torchaudio
-einops
-
-[dev]
-flake8
-mypy
-pdoc3
